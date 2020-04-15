@@ -1,0 +1,3800 @@
+[{
+  "barcode": "ME68 7683 4582 8744 4414 07",
+  "isReferenceOnly": false,
+  "borrowed": "6/29/2019",
+  "dueDate": "10/30/2019",
+  "price": "$44.68",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/16/2017",
+  "publicationDate": "4/17/2004",
+  "placedAt": {
+    "number": "19",
+    "locationIdentifier": "LIB-25"
+  },
+  "ISBN": "340414957-2",
+  "title": "Abbott and Costello Meet the Keystone Kops",
+  "subject": "Comedy",
+  "publisher": "Jehu Mottley",
+  "language": "Lao",
+  "numberOfPages": "800",
+  "authors": [
+    {
+      "name": "Noll Jessope",
+      "email": "njessope0@amazonaws.com",
+      "phone": "782-619-3639",
+      "address": {
+        "streetAddress": "6 Shasta Park",
+        "city": "Atescatempa",
+        "zipCode": "03",
+        "country": "Guatemala"
+      }
+    },
+    {
+      "name": "Gail Linning",
+      "email": "glinning1@artisteer.com",
+      "phone": "702-209-3969",
+      "address": {
+        "streetAddress": "40007 Macpherson Pass",
+        "city": "Tayirove",
+        "zipCode": "93010",
+        "country": "Ukraine"
+      }
+    }
+  ]
+}, {
+  "barcode": "LU40 8375 4SOA YYMC ULPB",
+  "isReferenceOnly": false,
+  "borrowed": "10/3/2019",
+  "dueDate": "9/20/2019",
+  "price": "$23.38",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/21/2017",
+  "publicationDate": "1/2/2006",
+  "placedAt": {
+    "number": "36",
+    "locationIdentifier": "LIB-68"
+  },
+  "ISBN": "437175376-0",
+  "title": "Ingenious",
+  "subject": "Comedy|Drama|Romance",
+  "publisher": "Waly Loftin",
+  "language": "Bengali",
+  "numberOfPages": "724",
+  "authors": [
+    {
+      "name": "Sophia Goricke",
+      "email": "sgoricke0@delicious.com",
+      "phone": "528-771-2539",
+      "address": {
+        "streetAddress": "1 Pepper Wood Pass",
+        "city": "Bahía Blanca",
+        "zipCode": "924",
+        "country": "Argentina"
+      }
+    }
+  ]
+}, {
+  "barcode": "AZ86 KVQR AOCV CWQC WJKQ UDOM CICG",
+  "isReferenceOnly": false,
+  "borrowed": "1/31/2020",
+  "dueDate": "8/11/2019",
+  "price": "$52.43",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/13/2018",
+  "publicationDate": "3/8/2003",
+  "placedAt": {
+    "number": "31",
+    "locationIdentifier": "LIB-39"
+  },
+  "ISBN": "122421415-3",
+  "title": "Afghan Luke",
+  "subject": "Drama",
+  "publisher": "Saree Chezelle",
+  "language": "Kannada",
+  "numberOfPages": "061",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "NL63 YGDG 1733 3852 60",
+  "isReferenceOnly": true,
+  "borrowed": "9/30/2019",
+  "dueDate": "11/3/2019",
+  "price": "$36.81",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/21/2018",
+  "publicationDate": "3/12/2005",
+  "placedAt": {
+    "number": "46",
+    "locationIdentifier": "LIB-28"
+  },
+  "ISBN": "899455984-1",
+  "title": "By the Pricking of My Thumbs (Mon petit doigt m'a dit...)",
+  "subject": "Comedy|Mystery",
+  "publisher": "Martguerita Patel",
+  "language": "Swati",
+  "numberOfPages": "555",
+  "authors": [
+    {
+      "name": "Gaston O'Dwyer",
+      "email": "godwyer0@nature.com",
+      "phone": "332-919-6812",
+      "address": {
+        "streetAddress": "238 Karstens Pass",
+        "city": "Telhado",
+        "zipCode": "09664",
+        "country": "Portugal"
+      }
+    }
+  ]
+}, {
+  "barcode": "IL26 6072 5635 5194 9884 272",
+  "isReferenceOnly": true,
+  "borrowed": "9/29/2019",
+  "dueDate": "8/6/2019",
+  "price": "$2.14",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/5/2017",
+  "publicationDate": "7/1/2000",
+  "placedAt": {
+    "number": "58",
+    "locationIdentifier": "LIB-58"
+  },
+  "ISBN": "029731507-2",
+  "title": "Xtro 2: The Second Encounter",
+  "subject": "Horror|Sci-Fi",
+  "publisher": "Eadmund Wheeler",
+  "language": "Montenegrin",
+  "numberOfPages": "115",
+  "authors": [
+    {
+      "name": "Nicolai Ings",
+      "email": "nings0@newyorker.com",
+      "phone": "889-254-3905",
+      "address": {
+        "streetAddress": "67 Waxwing Place",
+        "city": "Jagna",
+        "zipCode": "8494",
+        "country": "Philippines"
+      }
+    }
+  ]
+}, {
+  "barcode": "BH42 BDOX 4RDA BZJI W8CV TG",
+  "isReferenceOnly": false,
+  "borrowed": "8/27/2019",
+  "dueDate": "4/21/2019",
+  "price": "$73.19",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/21/2017",
+  "publicationDate": "5/31/2002",
+  "placedAt": {
+    "number": "71",
+    "locationIdentifier": "LIB-91"
+  },
+  "ISBN": "654205198-8",
+  "title": "Dana Carvey: Squatting Monkeys Tell No Lies",
+  "subject": "Comedy",
+  "publisher": "Mandi Zipsell",
+  "language": "Danish",
+  "numberOfPages": "436",
+  "authors": [
+    {
+      "name": "Doralia Broadnicke",
+      "email": "dbroadnicke0@nhs.uk",
+      "phone": "310-751-6105",
+      "address": {
+        "streetAddress": "75184 Ridgeway Park",
+        "city": "Orly",
+        "zipCode": "46142",
+        "country": "France"
+      }
+    },
+    {
+      "name": "Rollie Thorburn",
+      "email": "rthorburn1@unc.edu",
+      "phone": "577-266-9218",
+      "address": {
+        "streetAddress": "6 Columbus Crossing",
+        "city": "Huanxi",
+        "zipCode": "1",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR54 5990 4502 11SM MD9G XRJ0 F85",
+  "isReferenceOnly": false,
+  "borrowed": "1/5/2020",
+  "dueDate": "9/3/2019",
+  "price": "$48.66",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/23/2017",
+  "publicationDate": "4/5/2001",
+  "placedAt": {
+    "number": "56",
+    "locationIdentifier": "LIB-48"
+  },
+  "ISBN": "541080491-0",
+  "title": "Eye 2, The (Gin gwai 2)",
+  "subject": "Horror|Thriller",
+  "publisher": "Erastus Marlor",
+  "language": "Kyrgyz",
+  "numberOfPages": "076",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "SA26 92IW RVXP OZWT JPFB QMYK",
+  "isReferenceOnly": false,
+  "borrowed": "10/29/2019",
+  "dueDate": "6/2/2019",
+  "price": "$52.00",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/27/2017",
+  "publicationDate": "3/6/2009",
+  "placedAt": {
+    "number": "31",
+    "locationIdentifier": "LIB-23"
+  },
+  "ISBN": "065086470-0",
+  "title": "Family Way",
+  "subject": "Comedy|Romance",
+  "publisher": "Raynard Hairsine",
+  "language": "Mongolian",
+  "numberOfPages": "418",
+  "authors": [
+    {
+      "name": "Liva Dwyer",
+      "email": "ldwyer0@microsoft.com",
+      "phone": "223-387-2340",
+      "address": {
+        "streetAddress": "12905 Pepper Wood Pass",
+        "city": "Manonjaya",
+        "zipCode": "6",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}, {
+  "barcode": "MK12 471N N7A3 P8E2 N50",
+  "isReferenceOnly": true,
+  "borrowed": "5/16/2019",
+  "dueDate": "1/30/2020",
+  "price": "$40.67",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/11/2018",
+  "publicationDate": "1/22/2007",
+  "placedAt": {
+    "number": "32",
+    "locationIdentifier": "LIB-92"
+  },
+  "ISBN": "987807339-4",
+  "title": "Gentlemen",
+  "subject": "Drama|Romance|Thriller",
+  "publisher": "Frederica Meere",
+  "language": "Quechua",
+  "numberOfPages": "476",
+  "authors": [
+    {
+      "name": "Lorrayne Wilsee",
+      "email": "lwilsee0@elegantthemes.com",
+      "phone": "265-869-4301",
+      "address": {
+        "streetAddress": "87 Dennis Place",
+        "city": "Balong Wetan",
+        "zipCode": "3996",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "name": "Wilden Strippel",
+      "email": "wstrippel1@goo.ne.jp",
+      "phone": "373-278-0921",
+      "address": {
+        "streetAddress": "942 Corry Road",
+        "city": "Sison",
+        "zipCode": "11472",
+        "country": "Philippines"
+      }
+    }
+  ]
+}, {
+  "barcode": "PS29 OEZZ 8YOH RR7W UTHI XPAP AW7P X",
+  "isReferenceOnly": false,
+  "borrowed": "10/22/2019",
+  "dueDate": "11/11/2019",
+  "price": "$33.75",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/23/2017",
+  "publicationDate": "12/31/2005",
+  "placedAt": {
+    "number": "29",
+    "locationIdentifier": "LIB-84"
+  },
+  "ISBN": "846072546-4",
+  "title": "Souls for Sale",
+  "subject": "Comedy|Drama|Romance",
+  "publisher": "Ollie Follos",
+  "language": "Dhivehi",
+  "numberOfPages": "176",
+  "authors": [
+    {
+      "name": "Freedman Sawkin",
+      "email": "fsawkin0@feedburner.com",
+      "phone": "278-372-7381",
+      "address": {
+        "streetAddress": "66435 Grasskamp Court",
+        "city": "Kediri",
+        "zipCode": "44486",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "name": "Sibelle Gillease",
+      "email": "sgillease1@newyorker.com",
+      "phone": "854-928-8113",
+      "address": {
+        "streetAddress": "4 Union Parkway",
+        "city": "Caomiao",
+        "zipCode": "78",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Eirena Leinthall",
+      "email": "eleinthall2@chron.com",
+      "phone": "341-799-5115",
+      "address": {
+        "streetAddress": "0 Spaight Circle",
+        "city": "Wonocoyo Utara",
+        "zipCode": "845",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}, {
+  "barcode": "LI46 3105 1OWM DOUQ VWF8 1",
+  "isReferenceOnly": false,
+  "borrowed": "5/3/2019",
+  "dueDate": "11/13/2019",
+  "price": "$3.07",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "6/26/2017",
+  "publicationDate": "1/29/2010",
+  "placedAt": {
+    "number": "47",
+    "locationIdentifier": "LIB-08"
+  },
+  "ISBN": "846483291-5",
+  "title": "Exam",
+  "subject": "Mystery|Thriller",
+  "publisher": "Cordelia Burrage",
+  "language": "Polish",
+  "numberOfPages": "891",
+  "authors": [
+    {
+      "name": "Cathlene Stopp",
+      "email": "cstopp0@unicef.org",
+      "phone": "828-603-0501",
+      "address": {
+        "streetAddress": "16847 Hazelcrest Pass",
+        "city": "Kunčice pod Ondřejníkem",
+        "zipCode": "2",
+        "country": "Czech Republic"
+      }
+    },
+    {
+      "name": "Alexis Letten",
+      "email": "aletten1@domainmarket.com",
+      "phone": "849-625-1980",
+      "address": {
+        "streetAddress": "9058 Michigan Hill",
+        "city": "Yuyue",
+        "zipCode": "801",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Lonna Mechi",
+      "email": "lmechi2@trellian.com",
+      "phone": "383-551-1407",
+      "address": {
+        "streetAddress": "3 Wayridge Court",
+        "city": "Douala",
+        "zipCode": "25",
+        "country": "Cameroon"
+      }
+    }
+  ]
+}, {
+  "barcode": "KW38 CIUX NJSO EJG8 HJR3 YZPV D6YL I1",
+  "isReferenceOnly": false,
+  "borrowed": "9/1/2019",
+  "dueDate": "9/20/2019",
+  "price": "$43.58",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/22/2017",
+  "publicationDate": "11/21/2000",
+  "placedAt": {
+    "number": "83",
+    "locationIdentifier": "LIB-38"
+  },
+  "ISBN": "964184651-5",
+  "title": "Redline",
+  "subject": "Action",
+  "publisher": "Wilfrid Batchelor",
+  "language": "Hindi",
+  "numberOfPages": "367",
+  "authors": [
+    {
+      "name": "Willetta Lilburne",
+      "email": "wlilburne0@mapy.cz",
+      "phone": "441-922-2425",
+      "address": {
+        "streetAddress": "50 Doe Crossing Park",
+        "city": "Yandang",
+        "zipCode": "83",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Westleigh Bellhanger",
+      "email": "wbellhanger1@angelfire.com",
+      "phone": "597-177-3157",
+      "address": {
+        "streetAddress": "9558 Dottie Hill",
+        "city": "Boende",
+        "zipCode": "693",
+        "country": "Democratic Republic of the Congo"
+      }
+    },
+    {
+      "name": "Genvieve Fabbri",
+      "email": "gfabbri2@ovh.net",
+      "phone": "650-150-0250",
+      "address": {
+        "streetAddress": "9758 Utah Alley",
+        "city": "Mountain View",
+        "zipCode": "45949",
+        "country": "United States"
+      }
+    }
+  ]
+}, {
+  "barcode": "DO69 M08R 9432 8713 2519 3817 1778",
+  "isReferenceOnly": false,
+  "borrowed": "7/21/2019",
+  "dueDate": "12/1/2019",
+  "price": "$80.42",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/26/2017",
+  "publicationDate": "8/29/2003",
+  "placedAt": {
+    "number": "94",
+    "locationIdentifier": "LIB-22"
+  },
+  "ISBN": "267330938-1",
+  "title": "Mein Leben - Marcel Reich-Ranicki",
+  "subject": "Drama",
+  "publisher": "Nonie Gatherer",
+  "language": "Croatian",
+  "numberOfPages": "915",
+  "authors": [
+    {
+      "name": "Humphrey Rames",
+      "email": "hrames0@livejournal.com",
+      "phone": "688-387-6564",
+      "address": {
+        "streetAddress": "21 Northfield Court",
+        "city": "Smarhon’",
+        "zipCode": "580",
+        "country": "Belarus"
+      }
+    }
+  ]
+}, {
+  "barcode": "SA30 73HZ Z37P Y0IC VJQ0 UQE0",
+  "isReferenceOnly": false,
+  "borrowed": "11/5/2019",
+  "dueDate": "11/10/2019",
+  "price": "$23.47",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/3/2018",
+  "publicationDate": "2/1/2004",
+  "placedAt": {
+    "number": "92",
+    "locationIdentifier": "LIB-62"
+  },
+  "ISBN": "610976201-6",
+  "title": "Sky West and Crooked (Gypsy Girl)",
+  "subject": "Drama|Romance",
+  "publisher": "Loralie Taysbil",
+  "language": "Moldovan",
+  "numberOfPages": "816",
+  "authors": [
+    {
+      "name": "Willetta Laffoley-Lane",
+      "email": "wlaffoleylane0@shop-pro.jp",
+      "phone": "251-942-9864",
+      "address": {
+        "streetAddress": "2 Gerald Pass",
+        "city": "Yŏnggwang-ŭp",
+        "zipCode": "5833",
+        "country": "North Korea"
+      }
+    },
+    {
+      "name": "Hetti Kennett",
+      "email": "hkennett1@bravesites.com",
+      "phone": "231-946-5543",
+      "address": {
+        "streetAddress": "3860 Prentice Terrace",
+        "city": "As Suwaydā",
+        "zipCode": "0576",
+        "country": "Yemen"
+      }
+    },
+    {
+      "name": "Rich Gabriel",
+      "email": "rgabriel2@vk.com",
+      "phone": "978-275-5653",
+      "address": {
+        "streetAddress": "66 Claremont Junction",
+        "city": "Lyon",
+        "zipCode": "83309",
+        "country": "France"
+      }
+    }
+  ]
+}, {
+  "barcode": "SM39 N057 7494 694F B9LK Y3XY LKL",
+  "isReferenceOnly": true,
+  "borrowed": "7/31/2019",
+  "dueDate": "3/11/2020",
+  "price": "$43.00",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/10/2017",
+  "publicationDate": "10/28/2001",
+  "placedAt": {
+    "number": "50",
+    "locationIdentifier": "LIB-32"
+  },
+  "ISBN": "368642307-3",
+  "title": "Marius",
+  "subject": "Comedy|Drama|Romance",
+  "publisher": "Barbi Snowden",
+  "language": "Norwegian",
+  "numberOfPages": "979",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "FR32 0915 7896 77S0 TN2C WXGD S26",
+  "isReferenceOnly": false,
+  "borrowed": "11/4/2019",
+  "dueDate": "10/19/2019",
+  "price": "$55.11",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/17/2017",
+  "publicationDate": "6/16/2000",
+  "placedAt": {
+    "number": "11",
+    "locationIdentifier": "LIB-22"
+  },
+  "ISBN": "045526423-6",
+  "title": "Speed: In Search of Lost Time (Speed - Auf der Suche nach der verlorenen Zeit)",
+  "subject": "Documentary",
+  "publisher": "Lenee Vallentin",
+  "language": "Burmese",
+  "numberOfPages": "881",
+  "authors": [
+    {
+      "name": "Brit Hulland",
+      "email": "bhulland0@eepurl.com",
+      "phone": "433-921-1594",
+      "address": {
+        "streetAddress": "8 Vahlen Parkway",
+        "city": "Beya",
+        "zipCode": "230",
+        "country": "Russia"
+      }
+    },
+    {
+      "name": "Breena Pauletti",
+      "email": "bpauletti1@irs.gov",
+      "phone": "369-949-5287",
+      "address": {
+        "streetAddress": "7180 Waxwing Parkway",
+        "city": "Sobinka",
+        "zipCode": "72990",
+        "country": "Russia"
+      }
+    },
+    {
+      "name": "Kira Klemencic",
+      "email": "kklemencic2@reference.com",
+      "phone": "629-619-5077",
+      "address": {
+        "streetAddress": "976 Gulseth Circle",
+        "city": "Goya",
+        "zipCode": "2",
+        "country": "Argentina"
+      }
+    }
+  ]
+}, {
+  "barcode": "LV44 TLMH M5L9 SPC1 FGLQ 0",
+  "isReferenceOnly": true,
+  "borrowed": "5/31/2019",
+  "dueDate": "11/23/2019",
+  "price": "$26.42",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/31/2018",
+  "publicationDate": "3/30/2010",
+  "placedAt": {
+    "number": "04",
+    "locationIdentifier": "LIB-28"
+  },
+  "ISBN": "201969422-0",
+  "title": "Zatoichi the Fugitive (Zatôichi kyôjô-tabi) (Zatôichi 4)",
+  "subject": "Action|Drama",
+  "publisher": "Holden Mount",
+  "language": "Belarusian",
+  "numberOfPages": "081",
+  "authors": [
+    {
+      "name": "Hesther Standring",
+      "email": "hstandring0@gnu.org",
+      "phone": "869-933-8335",
+      "address": {
+        "streetAddress": "7 Kensington Crossing",
+        "city": "Tužno",
+        "zipCode": "492",
+        "country": "Croatia"
+      }
+    }
+  ]
+}, {
+  "barcode": "HR62 8685 5646 1929 9956 2",
+  "isReferenceOnly": false,
+  "borrowed": "11/4/2019",
+  "dueDate": "4/7/2020",
+  "price": "$32.04",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/22/2017",
+  "publicationDate": "1/12/2006",
+  "placedAt": {
+    "number": "10",
+    "locationIdentifier": "LIB-95"
+  },
+  "ISBN": "914503588-1",
+  "title": "Wolf Man, The",
+  "subject": "Drama|Fantasy|Horror",
+  "publisher": "Arv Strass",
+  "language": "West Frisian",
+  "numberOfPages": "670",
+  "authors": [
+    {
+      "name": "Rufus Dorwood",
+      "email": "rdorwood0@senate.gov",
+      "phone": "733-841-9713",
+      "address": {
+        "streetAddress": "6831 Farmco Lane",
+        "city": "Brusyliv",
+        "zipCode": "7970",
+        "country": "Ukraine"
+      }
+    },
+    {
+      "name": "Hyman Walczak",
+      "email": "hwalczak1@acquirethisname.com",
+      "phone": "629-848-5130",
+      "address": {
+        "streetAddress": "743 Buhler Junction",
+        "city": "Ouadda",
+        "zipCode": "69469",
+        "country": "Central African Republic"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR03 6325 2388 92TG LY05 3SAQ 852",
+  "isReferenceOnly": false,
+  "borrowed": "5/29/2019",
+  "dueDate": "9/8/2019",
+  "price": "$5.65",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/27/2017",
+  "publicationDate": "10/7/2008",
+  "placedAt": {
+    "number": "69",
+    "locationIdentifier": "LIB-45"
+  },
+  "ISBN": "884057603-7",
+  "title": "Goodbye World",
+  "subject": "Comedy|Drama",
+  "publisher": "Rudolph Monget",
+  "language": "Hiri Motu",
+  "numberOfPages": "215",
+  "authors": [
+    {
+      "name": "Sarena Barnes",
+      "email": "sbarnes0@pen.io",
+      "phone": "498-516-9990",
+      "address": {
+        "streetAddress": "38253 Oriole Junction",
+        "city": "Changfu",
+        "zipCode": "79",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Quinta Boule",
+      "email": "qboule1@walmart.com",
+      "phone": "595-232-4485",
+      "address": {
+        "streetAddress": "2 Debs Terrace",
+        "city": "Muritiba",
+        "zipCode": "156",
+        "country": "Brazil"
+      }
+    },
+    {
+      "name": "Perle Lodford",
+      "email": "plodford2@yelp.com",
+      "phone": "836-969-6967",
+      "address": {
+        "streetAddress": "697 Farmco Hill",
+        "city": "San Luis",
+        "zipCode": "54499",
+        "country": "Honduras"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR08 5663 8837 61TV B82M XU3C 009",
+  "isReferenceOnly": true,
+  "borrowed": "2/3/2020",
+  "dueDate": "6/5/2019",
+  "price": "$45.55",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/15/2017",
+  "publicationDate": "7/3/2001",
+  "placedAt": {
+    "number": "89",
+    "locationIdentifier": "LIB-32"
+  },
+  "ISBN": "208540218-6",
+  "title": "Glass House, The",
+  "subject": "Thriller",
+  "publisher": "Davon Crummey",
+  "language": "Amharic",
+  "numberOfPages": "604",
+  "authors": [
+    {
+      "name": "Catharine Geldart",
+      "email": "cgeldart0@typepad.com",
+      "phone": "260-581-3604",
+      "address": {
+        "streetAddress": "0678 Walton Place",
+        "city": "Loshnitsa",
+        "zipCode": "9248",
+        "country": "Belarus"
+      }
+    }
+  ]
+}, {
+  "barcode": "BA35 2882 0953 7712 6095",
+  "isReferenceOnly": true,
+  "borrowed": "8/2/2019",
+  "dueDate": "12/16/2019",
+  "price": "$32.75",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/28/2017",
+  "publicationDate": "2/8/2002",
+  "placedAt": {
+    "number": "22",
+    "locationIdentifier": "LIB-93"
+  },
+  "ISBN": "545328362-9",
+  "title": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+  "subject": "Comedy|Drama",
+  "publisher": "Verla Bohey",
+  "language": "Swati",
+  "numberOfPages": "088",
+  "authors": [
+    {
+      "name": "Arabel Struss",
+      "email": "astruss0@1und1.de",
+      "phone": "818-208-5409",
+      "address": {
+        "streetAddress": "459 6th Court",
+        "city": "Nyköping",
+        "zipCode": "9607",
+        "country": "Sweden"
+      }
+    },
+    {
+      "name": "Alvy Janos",
+      "email": "ajanos1@nsw.gov.au",
+      "phone": "538-338-9410",
+      "address": {
+        "streetAddress": "057 Union Center",
+        "city": "Yamparáez",
+        "zipCode": "7",
+        "country": "Bolivia"
+      }
+    }
+  ]
+}, {
+  "barcode": "FI09 2143 7274 4483 51",
+  "isReferenceOnly": false,
+  "borrowed": "6/13/2019",
+  "dueDate": "3/21/2020",
+  "price": "$10.48",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/3/2017",
+  "publicationDate": "6/26/2009",
+  "placedAt": {
+    "number": "71",
+    "locationIdentifier": "LIB-36"
+  },
+  "ISBN": "784670038-3",
+  "title": "Terry Fator: Live from Las Vegas",
+  "subject": "Comedy",
+  "publisher": "Bobby Catterall",
+  "language": "Marathi",
+  "numberOfPages": "644",
+  "authors": [
+    {
+      "name": "Berti Semrad",
+      "email": "bsemrad0@chronoengine.com",
+      "phone": "536-454-9754",
+      "address": {
+        "streetAddress": "69003 Ridgeview Circle",
+        "city": "Calzada Larga",
+        "zipCode": "503",
+        "country": "Panama"
+      }
+    },
+    {
+      "name": "Neils Bourthouloume",
+      "email": "nbourthouloume1@bbb.org",
+      "phone": "923-593-5697",
+      "address": {
+        "streetAddress": "83 Summit Crossing",
+        "city": "Picassinos",
+        "zipCode": "418",
+        "country": "Portugal"
+      }
+    },
+    {
+      "name": "Bernete Allibone",
+      "email": "ballibone2@latimes.com",
+      "phone": "378-257-0493",
+      "address": {
+        "streetAddress": "38715 Caliangt Terrace",
+        "city": "Khakhea",
+        "zipCode": "40154",
+        "country": "Botswana"
+      }
+    }
+  ]
+}, {
+  "barcode": "GI38 DMVX OVTZ PNU8 NT6Y RSU",
+  "isReferenceOnly": true,
+  "borrowed": "10/11/2019",
+  "dueDate": "4/22/2019",
+  "price": "$89.86",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/5/2017",
+  "publicationDate": "7/30/2001",
+  "placedAt": {
+    "number": "41",
+    "locationIdentifier": "LIB-22"
+  },
+  "ISBN": "435635606-3",
+  "title": "Horde, The (La Horde)",
+  "subject": "Action|Horror|Thriller",
+  "publisher": "Tamarra McDell",
+  "language": "Lithuanian",
+  "numberOfPages": "642",
+  "authors": [
+    {
+      "name": "Elvin LeEstut",
+      "email": "eleestut0@webeden.co.uk",
+      "phone": "334-572-2090",
+      "address": {
+        "streetAddress": "9 Eastwood Road",
+        "city": "Hetang",
+        "zipCode": "966",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "RS61 2704 8939 1795 3595 33",
+  "isReferenceOnly": true,
+  "borrowed": "11/9/2019",
+  "dueDate": "12/15/2019",
+  "price": "$20.09",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/23/2017",
+  "publicationDate": "3/6/2003",
+  "placedAt": {
+    "number": "78",
+    "locationIdentifier": "LIB-38"
+  },
+  "ISBN": "754739789-1",
+  "title": "My Rainy Days",
+  "subject": "Drama|Romance",
+  "publisher": "Reine Tomasz",
+  "language": "Polish",
+  "numberOfPages": "016",
+  "authors": [
+    {
+      "name": "Hunt Sertin",
+      "email": "hsertin0@about.me",
+      "phone": "202-989-6090",
+      "address": {
+        "streetAddress": "40226 East Crossing",
+        "city": "Washington",
+        "zipCode": "20497",
+        "country": "United States"
+      }
+    },
+    {
+      "name": "Elsworth Broadhurst",
+      "email": "ebroadhurst1@ucsd.edu",
+      "phone": "236-101-9052",
+      "address": {
+        "streetAddress": "3871 Leroy Road",
+        "city": "Yakimovo",
+        "zipCode": "02982",
+        "country": "Bulgaria"
+      }
+    }
+  ]
+}, {
+  "barcode": "BE82 5560 2290 2371",
+  "isReferenceOnly": true,
+  "borrowed": "11/6/2019",
+  "dueDate": "9/11/2019",
+  "price": "$1.39",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/30/2017",
+  "publicationDate": "8/23/2003",
+  "placedAt": {
+    "number": "47",
+    "locationIdentifier": "LIB-12"
+  },
+  "ISBN": "240122517-X",
+  "title": "Wuthering Heights",
+  "subject": "(no genres listed)",
+  "publisher": "Wylie Le Gassick",
+  "language": "Tswana",
+  "numberOfPages": "114",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "NO52 3347 2896 844",
+  "isReferenceOnly": true,
+  "borrowed": "1/21/2020",
+  "dueDate": "8/12/2019",
+  "price": "$51.75",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "6/29/2017",
+  "publicationDate": "1/10/2001",
+  "placedAt": {
+    "number": "24",
+    "locationIdentifier": "LIB-65"
+  },
+  "ISBN": "978643138-3",
+  "title": "Vampire Effect (The Twins Effect) (Chin gei bin)",
+  "subject": "Action|Comedy|Fantasy|Horror",
+  "publisher": "Cecile Sterrie",
+  "language": "Italian",
+  "numberOfPages": "105",
+  "authors": [
+    {
+      "name": "Corbin Shearmur",
+      "email": "cshearmur0@hhs.gov",
+      "phone": "360-763-0834",
+      "address": {
+        "streetAddress": "263 Walton Lane",
+        "city": "Seattle",
+        "zipCode": "2",
+        "country": "United States"
+      }
+    }
+  ]
+}, {
+  "barcode": "SM94 J401 7863 939Y KDTO ULZY QZB",
+  "isReferenceOnly": true,
+  "borrowed": "10/6/2019",
+  "dueDate": "3/30/2020",
+  "price": "$66.93",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/15/2017",
+  "publicationDate": "11/10/2002",
+  "placedAt": {
+    "number": "78",
+    "locationIdentifier": "LIB-09"
+  },
+  "ISBN": "163995925-4",
+  "title": "Fugitive Kind, The",
+  "subject": "Crime|Drama|Romance",
+  "publisher": "Elinor Rideout",
+  "language": "Belarusian",
+  "numberOfPages": "434",
+  "authors": [
+    {
+      "name": "Towney McFetridge",
+      "email": "tmcfetridge0@purevolume.com",
+      "phone": "714-685-2023",
+      "address": {
+        "streetAddress": "42 Columbus Way",
+        "city": "São Lourenço de Mamporcão",
+        "zipCode": "5658",
+        "country": "Portugal"
+      }
+    },
+    {
+      "name": "Elyse Runciman",
+      "email": "erunciman1@artisteer.com",
+      "phone": "235-589-5572",
+      "address": {
+        "streetAddress": "2106 Prentice Court",
+        "city": "Dresden",
+        "zipCode": "4",
+        "country": "Germany"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR33 6833 5463 83DI INAY HEJN I83",
+  "isReferenceOnly": false,
+  "borrowed": "8/9/2019",
+  "dueDate": "9/3/2019",
+  "price": "$30.18",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/28/2017",
+  "publicationDate": "12/17/2008",
+  "placedAt": {
+    "number": "67",
+    "locationIdentifier": "LIB-47"
+  },
+  "ISBN": "138797440-8",
+  "title": "Baby On Board",
+  "subject": "Comedy",
+  "publisher": "Vida Nealon",
+  "language": "Bulgarian",
+  "numberOfPages": "064",
+  "authors": [
+    {
+      "name": "Kerrin Engel",
+      "email": "kengel0@nydailynews.com",
+      "phone": "978-315-7894",
+      "address": {
+        "streetAddress": "46057 Warbler Park",
+        "city": "Heyin",
+        "zipCode": "7",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "SI49 8493 2699 1712 908",
+  "isReferenceOnly": false,
+  "borrowed": "7/1/2019",
+  "dueDate": "5/18/2019",
+  "price": "$16.12",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/24/2018",
+  "publicationDate": "3/27/2010",
+  "placedAt": {
+    "number": "46",
+    "locationIdentifier": "LIB-62"
+  },
+  "ISBN": "684429070-5",
+  "title": "Far Horizons, The",
+  "subject": "Western",
+  "publisher": "Wood Lermouth",
+  "language": "Greek",
+  "numberOfPages": "889",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "SA85 61QN XENR NFAQ PKQO KUZG",
+  "isReferenceOnly": true,
+  "borrowed": "1/29/2020",
+  "dueDate": "12/1/2019",
+  "price": "$50.24",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/7/2017",
+  "publicationDate": "8/1/2003",
+  "placedAt": {
+    "number": "71",
+    "locationIdentifier": "LIB-07"
+  },
+  "ISBN": "913402440-9",
+  "title": "From the Terrace",
+  "subject": "Drama",
+  "publisher": "Lynnett Reisen",
+  "language": "Tajik",
+  "numberOfPages": "863",
+  "authors": [
+    {
+      "name": "Timmie Vellden",
+      "email": "tvellden0@shinystat.com",
+      "phone": "183-861-9512",
+      "address": {
+        "streetAddress": "58 Katie Junction",
+        "city": "Chengcun",
+        "zipCode": "255",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Rosaline Stoodale",
+      "email": "rstoodale1@mit.edu",
+      "phone": "692-746-6442",
+      "address": {
+        "streetAddress": "59 Tennessee Junction",
+        "city": "Tidaholm",
+        "zipCode": "510",
+        "country": "Sweden"
+      }
+    }
+  ]
+}, {
+  "barcode": "LV16 KMYH PSIG NVVQ TPQI 3",
+  "isReferenceOnly": false,
+  "borrowed": "2/29/2020",
+  "dueDate": "1/28/2020",
+  "price": "$53.29",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/12/2018",
+  "publicationDate": "6/22/2009",
+  "placedAt": {
+    "number": "85",
+    "locationIdentifier": "LIB-83"
+  },
+  "ISBN": "883970006-4",
+  "title": "8MM 2",
+  "subject": "Drama|Mystery|Thriller",
+  "publisher": "Karyn Acott",
+  "language": "Gujarati",
+  "numberOfPages": "294",
+  "authors": [
+    {
+      "name": "Cozmo Bees",
+      "email": "cbees0@creativecommons.org",
+      "phone": "993-362-6336",
+      "address": {
+        "streetAddress": "7 Bay Way",
+        "city": "Villa Ocampo",
+        "zipCode": "47",
+        "country": "Argentina"
+      }
+    }
+  ]
+}, {
+  "barcode": "BA54 8828 1989 9608 8956",
+  "isReferenceOnly": true,
+  "borrowed": "8/11/2019",
+  "dueDate": "9/30/2019",
+  "price": "$68.19",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/11/2018",
+  "publicationDate": "11/8/2000",
+  "placedAt": {
+    "number": "40",
+    "locationIdentifier": "LIB-41"
+  },
+  "ISBN": "210779575-4",
+  "title": "Walter Defends Sarajevo (Valter brani Sarajevo)",
+  "subject": "War",
+  "publisher": "Bryana Garman",
+  "language": "Macedonian",
+  "numberOfPages": "564",
+  "authors": [
+    {
+      "name": "Tania Jirka",
+      "email": "tjirka0@arstechnica.com",
+      "phone": "309-488-1618",
+      "address": {
+        "streetAddress": "72292 Springs Terrace",
+        "city": "Pu’an",
+        "zipCode": "1247",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Ansell Jekyll",
+      "email": "ajekyll1@mapquest.com",
+      "phone": "113-480-4092",
+      "address": {
+        "streetAddress": "47946 Spohn Parkway",
+        "city": "San Fernando del Valle de Catamarca",
+        "zipCode": "2400",
+        "country": "Argentina"
+      }
+    }
+  ]
+}, {
+  "barcode": "PL79 8547 8669 6515 4774 3021 6859",
+  "isReferenceOnly": true,
+  "borrowed": "6/24/2019",
+  "dueDate": "12/20/2019",
+  "price": "$51.79",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/12/2017",
+  "publicationDate": "8/21/2007",
+  "placedAt": {
+    "number": "01",
+    "locationIdentifier": "LIB-28"
+  },
+  "ISBN": "126949437-6",
+  "title": "Evil (Ondskan)",
+  "subject": "Drama",
+  "publisher": "Brnaba Deinhardt",
+  "language": "Gujarati",
+  "numberOfPages": "924",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "FR57 2943 3252 07N6 BHQG ACSX L16",
+  "isReferenceOnly": true,
+  "borrowed": "12/5/2019",
+  "dueDate": "10/14/2019",
+  "price": "$74.95",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "6/12/2017",
+  "publicationDate": "11/27/2000",
+  "placedAt": {
+    "number": "70",
+    "locationIdentifier": "LIB-14"
+  },
+  "ISBN": "181297030-7",
+  "title": "They Shoot Horses, Don't They?",
+  "subject": "Drama",
+  "publisher": "Maryrose Tharme",
+  "language": "Pashto",
+  "numberOfPages": "832",
+  "authors": [
+    {
+      "name": "Fitz Peete",
+      "email": "fpeete0@stanford.edu",
+      "phone": "294-760-8308",
+      "address": {
+        "streetAddress": "29 Cherokee Alley",
+        "city": "Kompóti",
+        "zipCode": "8",
+        "country": "Greece"
+      }
+    },
+    {
+      "name": "Leontine Paffley",
+      "email": "lpaffley1@dot.gov",
+      "phone": "247-909-1003",
+      "address": {
+        "streetAddress": "14 Quincy Trail",
+        "city": "Purorejo",
+        "zipCode": "4711",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}, {
+  "barcode": "SE50 9535 9230 2863 8933 8681",
+  "isReferenceOnly": true,
+  "borrowed": "9/23/2019",
+  "dueDate": "6/23/2019",
+  "price": "$81.96",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/27/2017",
+  "publicationDate": "11/27/2008",
+  "placedAt": {
+    "number": "24",
+    "locationIdentifier": "LIB-32"
+  },
+  "ISBN": "056323447-4",
+  "title": "Nick Carter, Master Detective",
+  "subject": "Crime|Drama|Mystery",
+  "publisher": "Karolina Crutch",
+  "language": "Bulgarian",
+  "numberOfPages": "479",
+  "authors": [
+    {
+      "name": "Beilul Ashtonhurst",
+      "email": "bashtonhurst0@narod.ru",
+      "phone": "330-787-1090",
+      "address": {
+        "streetAddress": "6 Maryland Place",
+        "city": "Tohautu",
+        "zipCode": "676",
+        "country": "French Polynesia"
+      }
+    },
+    {
+      "name": "Elia Caveau",
+      "email": "ecaveau1@va.gov",
+      "phone": "279-769-1967",
+      "address": {
+        "streetAddress": "2 Lyons Road",
+        "city": "Maloco",
+        "zipCode": "5814",
+        "country": "Philippines"
+      }
+    }
+  ]
+}, {
+  "barcode": "AT50 1465 4146 6115 5472",
+  "isReferenceOnly": false,
+  "borrowed": "5/16/2019",
+  "dueDate": "2/16/2020",
+  "price": "$65.48",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/5/2017",
+  "publicationDate": "10/2/2002",
+  "placedAt": {
+    "number": "99",
+    "locationIdentifier": "LIB-31"
+  },
+  "ISBN": "351497685-6",
+  "title": "Concert for George, The",
+  "subject": "Documentary|Musical",
+  "publisher": "Kristine Smalls",
+  "language": "Bislama",
+  "numberOfPages": "088",
+  "authors": [
+    {
+      "name": "Dieter Huckell",
+      "email": "dhuckell0@stumbleupon.com",
+      "phone": "481-502-2586",
+      "address": {
+        "streetAddress": "52 Barby Pass",
+        "city": "Charleroi",
+        "zipCode": "39327",
+        "country": "Belgium"
+      }
+    },
+    {
+      "name": "Lynett Creamer",
+      "email": "lcreamer1@t-online.de",
+      "phone": "877-208-0782",
+      "address": {
+        "streetAddress": "561 New Castle Court",
+        "city": "Chillia",
+        "zipCode": "3",
+        "country": "Peru"
+      }
+    },
+    {
+      "name": "Jesselyn Patley",
+      "email": "jpatley2@vistaprint.com",
+      "phone": "374-604-6892",
+      "address": {
+        "streetAddress": "07 Carioca Alley",
+        "city": "Gent",
+        "zipCode": "65",
+        "country": "Belgium"
+      }
+    }
+  ]
+}, {
+  "barcode": "PS13 DFPL KXY0 EJOU 5G0Z MQI1 FD9B 1",
+  "isReferenceOnly": true,
+  "borrowed": "2/11/2020",
+  "dueDate": "4/19/2020",
+  "price": "$29.95",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "6/19/2017",
+  "publicationDate": "11/18/2002",
+  "placedAt": {
+    "number": "57",
+    "locationIdentifier": "LIB-21"
+  },
+  "ISBN": "238327766-5",
+  "title": "Ouija",
+  "subject": "Horror",
+  "publisher": "Lannie Binestead",
+  "language": "Maltese",
+  "numberOfPages": "365",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "GR97 3935 349N PICW HS5N KMQV 1YK",
+  "isReferenceOnly": false,
+  "borrowed": "8/26/2019",
+  "dueDate": "7/3/2019",
+  "price": "$9.52",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/10/2018",
+  "publicationDate": "3/1/2008",
+  "placedAt": {
+    "number": "70",
+    "locationIdentifier": "LIB-73"
+  },
+  "ISBN": "251937954-5",
+  "title": "Critical Condition",
+  "subject": "Comedy",
+  "publisher": "Jon Thorneley",
+  "language": "Danish",
+  "numberOfPages": "680",
+  "authors": [
+    {
+      "name": "Niels Husset",
+      "email": "nhusset0@linkedin.com",
+      "phone": "323-319-4595",
+      "address": {
+        "streetAddress": "1 Lakeland Alley",
+        "city": "Los Angeles",
+        "zipCode": "2963",
+        "country": "United States"
+      }
+    },
+    {
+      "name": "Sam Island",
+      "email": "sisland1@goo.gl",
+      "phone": "572-559-4377",
+      "address": {
+        "streetAddress": "70 Chive Trail",
+        "city": "Pamiątkowo",
+        "zipCode": "0907",
+        "country": "Poland"
+      }
+    }
+  ]
+}, {
+  "barcode": "SI49 9642 7539 1076 647",
+  "isReferenceOnly": true,
+  "borrowed": "11/8/2019",
+  "dueDate": "7/18/2019",
+  "price": "$46.78",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/13/2017",
+  "publicationDate": "11/24/2003",
+  "placedAt": {
+    "number": "58",
+    "locationIdentifier": "LIB-83"
+  },
+  "ISBN": "696542652-7",
+  "title": "Lipstick",
+  "subject": "Drama",
+  "publisher": "Royal Corpe",
+  "language": "Gujarati",
+  "numberOfPages": "529",
+  "authors": [
+    {
+      "name": "Hastie Lochet",
+      "email": "hlochet0@plala.or.jp",
+      "phone": "891-490-8137",
+      "address": {
+        "streetAddress": "61 Talisman Lane",
+        "city": "Samburat",
+        "zipCode": "5",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "name": "Samaria Gibben",
+      "email": "sgibben1@hatena.ne.jp",
+      "phone": "318-479-9040",
+      "address": {
+        "streetAddress": "9855 Arrowood Park",
+        "city": "Shreveport",
+        "zipCode": "584",
+        "country": "United States"
+      }
+    },
+    {
+      "name": "Mill Plumm",
+      "email": "mplumm2@marriott.com",
+      "phone": "426-890-0124",
+      "address": {
+        "streetAddress": "410 Oakridge Drive",
+        "city": "Enköping",
+        "zipCode": "41",
+        "country": "Sweden"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR86 4435 4505 70CG YR5P IGA8 L94",
+  "isReferenceOnly": true,
+  "borrowed": "7/15/2019",
+  "dueDate": "5/1/2019",
+  "price": "$80.63",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "9/6/2017",
+  "publicationDate": "10/16/2002",
+  "placedAt": {
+    "number": "76",
+    "locationIdentifier": "LIB-50"
+  },
+  "ISBN": "215173515-X",
+  "title": "Through the Olive Trees (Zire darakhatan zeyton)",
+  "subject": "Drama",
+  "publisher": "Ashton Headey",
+  "language": "New Zealand Sign Language",
+  "numberOfPages": "014",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "CR13 1034 3856 6534 6351 0",
+  "isReferenceOnly": false,
+  "borrowed": "8/11/2019",
+  "dueDate": "5/20/2019",
+  "price": "$38.20",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/2/2017",
+  "publicationDate": "6/9/2001",
+  "placedAt": {
+    "number": "43",
+    "locationIdentifier": "LIB-80"
+  },
+  "ISBN": "975755852-4",
+  "title": "For My Father (Sof Shavua B'Tel Aviv)",
+  "subject": "Drama",
+  "publisher": "Horst Reeson",
+  "language": "Zulu",
+  "numberOfPages": "629",
+  "authors": [
+    {
+      "name": "Damien Cullinan",
+      "email": "dcullinan0@ocn.ne.jp",
+      "phone": "687-802-0302",
+      "address": {
+        "streetAddress": "59 Dottie Lane",
+        "city": "Nailung",
+        "zipCode": "6",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Lida Shelly",
+      "email": "lshelly1@1688.com",
+      "phone": "702-255-5726",
+      "address": {
+        "streetAddress": "1750 Lakewood Gardens Road",
+        "city": "Yangzhong",
+        "zipCode": "26924",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "ME56 0086 0954 2267 2026 65",
+  "isReferenceOnly": true,
+  "borrowed": "7/29/2019",
+  "dueDate": "12/4/2019",
+  "price": "$7.25",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/26/2017",
+  "publicationDate": "2/13/2004",
+  "placedAt": {
+    "number": "42",
+    "locationIdentifier": "LIB-43"
+  },
+  "ISBN": "560392748-8",
+  "title": "Teachers",
+  "subject": "Comedy|Drama|Romance",
+  "publisher": "Jelene Dafter",
+  "language": "New Zealand Sign Language",
+  "numberOfPages": "961",
+  "authors": [
+    {
+      "name": "Salomo Gibbon",
+      "email": "sgibbon0@rakuten.co.jp",
+      "phone": "303-406-8522",
+      "address": {
+        "streetAddress": "12249 Muir Alley",
+        "city": "São Silvestre",
+        "zipCode": "2",
+        "country": "Portugal"
+      }
+    },
+    {
+      "name": "Marni Lumpkin",
+      "email": "mlumpkin1@wikimedia.org",
+      "phone": "776-852-1301",
+      "address": {
+        "streetAddress": "09431 Johnson Pass",
+        "city": "Huangmao",
+        "zipCode": "2",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Isa Ciccetti",
+      "email": "iciccetti2@admin.ch",
+      "phone": "725-219-0575",
+      "address": {
+        "streetAddress": "091 Monument Point",
+        "city": "Yuetang",
+        "zipCode": "56182",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "EE36 0693 6409 9221 2591",
+  "isReferenceOnly": true,
+  "borrowed": "5/11/2019",
+  "dueDate": "7/21/2019",
+  "price": "$87.22",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/27/2017",
+  "publicationDate": "2/9/2005",
+  "placedAt": {
+    "number": "01",
+    "locationIdentifier": "LIB-97"
+  },
+  "ISBN": "123147360-6",
+  "title": "Bridge, The",
+  "subject": "Documentary",
+  "publisher": "Egon Bruggen",
+  "language": "Tamil",
+  "numberOfPages": "597",
+  "authors": [
+    {
+      "name": "Brana Gaudon",
+      "email": "bgaudon0@phpbb.com",
+      "phone": "558-380-7750",
+      "address": {
+        "streetAddress": "304 Huxley Circle",
+        "city": "Zhangtan",
+        "zipCode": "612",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Barret Pull",
+      "email": "bpull1@blog.com",
+      "phone": "661-778-1944",
+      "address": {
+        "streetAddress": "64561 Dorton Drive",
+        "city": "Concepción",
+        "zipCode": "1",
+        "country": "Bolivia"
+      }
+    },
+    {
+      "name": "Tracie Kerswell",
+      "email": "tkerswell2@google.fr",
+      "phone": "997-958-8436",
+      "address": {
+        "streetAddress": "38 Johnson Junction",
+        "city": "Pizhanka",
+        "zipCode": "0",
+        "country": "Russia"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR98 4486 5030 32UH 9CNG WSOZ A30",
+  "isReferenceOnly": false,
+  "borrowed": "9/27/2019",
+  "dueDate": "4/23/2020",
+  "price": "$90.18",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/1/2017",
+  "publicationDate": "2/24/2006",
+  "placedAt": {
+    "number": "47",
+    "locationIdentifier": "LIB-50"
+  },
+  "ISBN": "177366558-8",
+  "title": "Being John Malkovich",
+  "subject": "Comedy|Drama|Fantasy",
+  "publisher": "Nowell Kelcher",
+  "language": "Luxembourgish",
+  "numberOfPages": "621",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "CR15 7216 7720 7659 9100 4",
+  "isReferenceOnly": true,
+  "borrowed": "3/9/2020",
+  "dueDate": "5/27/2019",
+  "price": "$28.48",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/11/2017",
+  "publicationDate": "7/26/2002",
+  "placedAt": {
+    "number": "83",
+    "locationIdentifier": "LIB-13"
+  },
+  "ISBN": "882998137-0",
+  "title": "Luminarias",
+  "subject": "Comedy|Romance",
+  "publisher": "Burgess Luce",
+  "language": "Papiamento",
+  "numberOfPages": "368",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "LB53 8810 DSNC 3ACO DUHX FDFA BB1R",
+  "isReferenceOnly": false,
+  "borrowed": "12/16/2019",
+  "dueDate": "6/6/2019",
+  "price": "$33.20",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/8/2017",
+  "publicationDate": "4/3/2007",
+  "placedAt": {
+    "number": "30",
+    "locationIdentifier": "LIB-35"
+  },
+  "ISBN": "117935581-4",
+  "title": "Rouge (Yin ji kau)",
+  "subject": "Drama|Fantasy|Mystery|Romance",
+  "publisher": "Elton Whitrod",
+  "language": "Malagasy",
+  "numberOfPages": "106",
+  "authors": [
+    {
+      "name": "Roderich Isakovitch",
+      "email": "risakovitch0@fastcompany.com",
+      "phone": "938-839-5335",
+      "address": {
+        "streetAddress": "1 Badeau Junction",
+        "city": "Portsmouth",
+        "zipCode": "001",
+        "country": "Dominica"
+      }
+    }
+  ]
+}, {
+  "barcode": "KW94 PXVL TAZB UZDG HWBF ACVF JYGU N2",
+  "isReferenceOnly": true,
+  "borrowed": "6/7/2019",
+  "dueDate": "9/30/2019",
+  "price": "$76.49",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/10/2018",
+  "publicationDate": "8/1/2006",
+  "placedAt": {
+    "number": "52",
+    "locationIdentifier": "LIB-83"
+  },
+  "ISBN": "199151589-8",
+  "title": "Nine Dead",
+  "subject": "Crime|Mystery|Thriller",
+  "publisher": "Alvira Headey",
+  "language": "Dhivehi",
+  "numberOfPages": "196",
+  "authors": [
+    {
+      "name": "Rock Awin",
+      "email": "rawin0@naver.com",
+      "phone": "817-549-5053",
+      "address": {
+        "streetAddress": "33560 Rockefeller Way",
+        "city": "Hoeryŏng",
+        "zipCode": "15",
+        "country": "North Korea"
+      }
+    },
+    {
+      "name": "Jaynell Linsley",
+      "email": "jlinsley1@hp.com",
+      "phone": "471-175-4601",
+      "address": {
+        "streetAddress": "9925 Express Drive",
+        "city": "Rajsko",
+        "zipCode": "2922",
+        "country": "Poland"
+      }
+    },
+    {
+      "name": "Olivette Kerfut",
+      "email": "okerfut2@etsy.com",
+      "phone": "707-649-5554",
+      "address": {
+        "streetAddress": "437 Erie Lane",
+        "city": "Jianxi",
+        "zipCode": "23072",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "SI31 6256 6979 2200 842",
+  "isReferenceOnly": true,
+  "borrowed": "3/15/2020",
+  "dueDate": "5/16/2019",
+  "price": "$26.58",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/13/2017",
+  "publicationDate": "5/21/2007",
+  "placedAt": {
+    "number": "27",
+    "locationIdentifier": "LIB-50"
+  },
+  "ISBN": "926252601-6",
+  "title": "Lila Says (Lila dit ça)",
+  "subject": "Crime|Drama|Romance",
+  "publisher": "Georgine Sutherden",
+  "language": "Khmer",
+  "numberOfPages": "346",
+  "authors": [
+    {
+      "name": "Saree Desforges",
+      "email": "sdesforges0@mail.ru",
+      "phone": "865-180-7563",
+      "address": {
+        "streetAddress": "8652 Pine View Terrace",
+        "city": "Knoxville",
+        "zipCode": "9890",
+        "country": "United States"
+      }
+    },
+    {
+      "name": "Donny Kirman",
+      "email": "dkirman1@w3.org",
+      "phone": "153-523-6263",
+      "address": {
+        "streetAddress": "1813 Browning Plaza",
+        "city": "Ulashan",
+        "zipCode": "94290",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Krystyna Yegorev",
+      "email": "kyegorev2@flavors.me",
+      "phone": "528-240-4659",
+      "address": {
+        "streetAddress": "668 Northland Road",
+        "city": "Pengjia Zhaizi",
+        "zipCode": "0",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "IT68 M570 7978 856P XM5I GGJY 4PC",
+  "isReferenceOnly": false,
+  "borrowed": "10/11/2019",
+  "dueDate": "12/3/2019",
+  "price": "$74.42",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/10/2017",
+  "publicationDate": "7/3/2000",
+  "placedAt": {
+    "number": "54",
+    "locationIdentifier": "LIB-56"
+  },
+  "ISBN": "035109022-3",
+  "title": "Dil Se",
+  "subject": "Drama|Musical|Romance",
+  "publisher": "Jeane Prendiville",
+  "language": "Hebrew",
+  "numberOfPages": "265",
+  "authors": [
+    {
+      "name": "Shanna Rugge",
+      "email": "srugge0@smh.com.au",
+      "phone": "195-740-7088",
+      "address": {
+        "streetAddress": "2 Blaine Pass",
+        "city": "Casilda",
+        "zipCode": "14",
+        "country": "Argentina"
+      }
+    },
+    {
+      "name": "Eugen Bayford",
+      "email": "ebayford1@jigsy.com",
+      "phone": "958-457-6324",
+      "address": {
+        "streetAddress": "76722 Hayes Place",
+        "city": "Tanggul Wetan",
+        "zipCode": "71",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "name": "Goldina Henrion",
+      "email": "ghenrion2@foxnews.com",
+      "phone": "328-754-2680",
+      "address": {
+        "streetAddress": "141 Dryden Junction",
+        "city": "Changzhou",
+        "zipCode": "09",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR30 1478 3839 21VX LPY0 AZQK C97",
+  "isReferenceOnly": true,
+  "borrowed": "3/17/2020",
+  "dueDate": "9/18/2019",
+  "price": "$11.61",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/19/2017",
+  "publicationDate": "5/4/2003",
+  "placedAt": {
+    "number": "23",
+    "locationIdentifier": "LIB-10"
+  },
+  "ISBN": "745344348-2",
+  "title": "Kummeli Goldrush (Kummeli kultakuume)",
+  "subject": "Comedy",
+  "publisher": "Garwood Whorall",
+  "language": "Khmer",
+  "numberOfPages": "040",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "PL30 5777 8878 3178 6740 9676 8805",
+  "isReferenceOnly": true,
+  "borrowed": "7/27/2019",
+  "dueDate": "1/3/2020",
+  "price": "$8.41",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/8/2018",
+  "publicationDate": "7/31/2005",
+  "placedAt": {
+    "number": "17",
+    "locationIdentifier": "LIB-49"
+  },
+  "ISBN": "887539542-X",
+  "title": "Phantom of the Opera",
+  "subject": "Horror|Musical|Thriller",
+  "publisher": "Vernice Mauchline",
+  "language": "Dzongkha",
+  "numberOfPages": "095",
+  "authors": [
+    {
+      "name": "Trueman Yeulet",
+      "email": "tyeulet0@bandcamp.com",
+      "phone": "102-676-1799",
+      "address": {
+        "streetAddress": "6029 Mcbride Plaza",
+        "city": "Huangtan",
+        "zipCode": "69278",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Scot Torbet",
+      "email": "storbet1@washingtonpost.com",
+      "phone": "860-549-5820",
+      "address": {
+        "streetAddress": "527 Claremont Parkway",
+        "city": "Nyurba",
+        "zipCode": "0",
+        "country": "Russia"
+      }
+    }
+  ]
+}, {
+  "barcode": "IS04 3333 7310 6715 8920 4894 19",
+  "isReferenceOnly": true,
+  "borrowed": "7/22/2019",
+  "dueDate": "12/16/2019",
+  "price": "$33.86",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/24/2017",
+  "publicationDate": "12/2/2004",
+  "placedAt": {
+    "number": "76",
+    "locationIdentifier": "LIB-09"
+  },
+  "ISBN": "527386342-2",
+  "title": "Alan Smithee Film: Burn Hollywood Burn, An",
+  "subject": "Comedy",
+  "publisher": "Sibbie Watson-Brown",
+  "language": "Montenegrin",
+  "numberOfPages": "661",
+  "authors": [
+    {
+      "name": "Sammie Cape",
+      "email": "scape0@unesco.org",
+      "phone": "489-124-7950",
+      "address": {
+        "streetAddress": "62 Moulton Center",
+        "city": "Samokov",
+        "zipCode": "95270",
+        "country": "Bulgaria"
+      }
+    },
+    {
+      "name": "Casar Banting",
+      "email": "cbanting1@whitehouse.gov",
+      "phone": "127-420-8202",
+      "address": {
+        "streetAddress": "5897 Glendale Trail",
+        "city": "Gagarin",
+        "zipCode": "3",
+        "country": "Uzbekistan"
+      }
+    },
+    {
+      "name": "Cassandry Thornebarrow",
+      "email": "cthornebarrow2@webnode.com",
+      "phone": "884-776-2889",
+      "address": {
+        "streetAddress": "251 Declaration Plaza",
+        "city": "Breia",
+        "zipCode": "2",
+        "country": "Portugal"
+      }
+    }
+  ]
+}, {
+  "barcode": "MK23 986M Z8CW TYAI C03",
+  "isReferenceOnly": false,
+  "borrowed": "3/19/2020",
+  "dueDate": "12/4/2019",
+  "price": "$89.70",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/10/2017",
+  "publicationDate": "1/26/2008",
+  "placedAt": {
+    "number": "18",
+    "locationIdentifier": "LIB-16"
+  },
+  "ISBN": "977830211-1",
+  "title": "Secret of NIMH 2: Timmy to the Rescue, The",
+  "subject": "Adventure|Animation|Children|Musical",
+  "publisher": "Flossy Southall",
+  "language": "New Zealand Sign Language",
+  "numberOfPages": "545",
+  "authors": [
+    {
+      "name": "Bennie Aubury",
+      "email": "baubury0@home.pl",
+      "phone": "104-339-2581",
+      "address": {
+        "streetAddress": "213 Anthes Pass",
+        "city": "Klos",
+        "zipCode": "9962",
+        "country": "Albania"
+      }
+    },
+    {
+      "name": "Dorise Rockcliffe",
+      "email": "drockcliffe1@utexas.edu",
+      "phone": "981-341-7083",
+      "address": {
+        "streetAddress": "69 Lerdahl Lane",
+        "city": "Pagarbatu",
+        "zipCode": "92203",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}, {
+  "barcode": "IT73 P971 6432 8357 6IGE RMHA 1ZY",
+  "isReferenceOnly": false,
+  "borrowed": "10/30/2019",
+  "dueDate": "4/28/2019",
+  "price": "$40.34",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/3/2017",
+  "publicationDate": "1/28/2007",
+  "placedAt": {
+    "number": "48",
+    "locationIdentifier": "LIB-34"
+  },
+  "ISBN": "609715847-5",
+  "title": "The Old Gun",
+  "subject": "Drama|Thriller|War",
+  "publisher": "Ephraim Swalowe",
+  "language": "Lao",
+  "numberOfPages": "674",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "IT57 F032 7871 942F SS9N 2DME RWG",
+  "isReferenceOnly": true,
+  "borrowed": "4/14/2019",
+  "dueDate": "5/27/2019",
+  "price": "$66.64",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/23/2017",
+  "publicationDate": "9/23/2002",
+  "placedAt": {
+    "number": "11",
+    "locationIdentifier": "LIB-60"
+  },
+  "ISBN": "848560272-2",
+  "title": "Indochine",
+  "subject": "Drama|Romance",
+  "publisher": "Richart Kentish",
+  "language": "Amharic",
+  "numberOfPages": "359",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "SM78 F979 3836 780H YFEQ WZCF MEW",
+  "isReferenceOnly": false,
+  "borrowed": "1/5/2020",
+  "dueDate": "3/26/2020",
+  "price": "$59.94",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/22/2017",
+  "publicationDate": "2/16/2003",
+  "placedAt": {
+    "number": "80",
+    "locationIdentifier": "LIB-71"
+  },
+  "ISBN": "714800020-3",
+  "title": "Crazy Class Wakes Up, The (Hababam sinifi uyaniyor)",
+  "subject": "Comedy",
+  "publisher": "Evelina Baptie",
+  "language": "Persian",
+  "numberOfPages": "800",
+  "authors": [
+    {
+      "name": "Mayne Presland",
+      "email": "mpresland0@hp.com",
+      "phone": "292-477-0545",
+      "address": {
+        "streetAddress": "6353 Dawn Hill",
+        "city": "Rixi",
+        "zipCode": "1508",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "IS04 8903 4684 0093 0985 5501 46",
+  "isReferenceOnly": true,
+  "borrowed": "8/29/2019",
+  "dueDate": "10/9/2019",
+  "price": "$53.47",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/8/2017",
+  "publicationDate": "7/1/2006",
+  "placedAt": {
+    "number": "10",
+    "locationIdentifier": "LIB-53"
+  },
+  "ISBN": "063176471-2",
+  "title": "Along Came Polly",
+  "subject": "Comedy|Romance",
+  "publisher": "Cindy Forbear",
+  "language": "Portuguese",
+  "numberOfPages": "704",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "LV27 LRAI HQQD RMBD YX3S N",
+  "isReferenceOnly": true,
+  "borrowed": "9/17/2019",
+  "dueDate": "10/20/2019",
+  "price": "$80.92",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/8/2017",
+  "publicationDate": "11/22/2001",
+  "placedAt": {
+    "number": "90",
+    "locationIdentifier": "LIB-71"
+  },
+  "ISBN": "270616485-9",
+  "title": "Letters to Father Jacob (Postia pappi Jaakobille)",
+  "subject": "Drama",
+  "publisher": "Dixie Dewett",
+  "language": "Kurdish",
+  "numberOfPages": "895",
+  "authors": [
+    {
+      "name": "Cristen Strutton",
+      "email": "cstrutton0@umn.edu",
+      "phone": "962-733-5318",
+      "address": {
+        "streetAddress": "451 Iowa Road",
+        "city": "Arıqıran",
+        "zipCode": "4",
+        "country": "Azerbaijan"
+      }
+    }
+  ]
+}, {
+  "barcode": "CH39 8700 00NU 0GL7 WISY 4",
+  "isReferenceOnly": false,
+  "borrowed": "10/26/2019",
+  "dueDate": "8/25/2019",
+  "price": "$75.25",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/21/2018",
+  "publicationDate": "7/1/2003",
+  "placedAt": {
+    "number": "49",
+    "locationIdentifier": "LIB-10"
+  },
+  "ISBN": "869267620-9",
+  "title": "Scream of Stone (Cerro Torre: Schrei aus Stein)",
+  "subject": "Drama",
+  "publisher": "Tabb Grigoroni",
+  "language": "Aymara",
+  "numberOfPages": "795",
+  "authors": [
+    {
+      "name": "Forbes Biasotti",
+      "email": "fbiasotti0@unblog.fr",
+      "phone": "699-836-2685",
+      "address": {
+        "streetAddress": "9163 Graedel Avenue",
+        "city": "Sardasht",
+        "zipCode": "68",
+        "country": "Iran"
+      }
+    },
+    {
+      "name": "Winonah Desson",
+      "email": "wdesson1@fastcompany.com",
+      "phone": "202-652-7547",
+      "address": {
+        "streetAddress": "76411 Hermina Plaza",
+        "city": "Washington",
+        "zipCode": "55505",
+        "country": "United States"
+      }
+    }
+  ]
+}, {
+  "barcode": "CY11 9220 4502 OWOW PCVS H7H0 CKAC",
+  "isReferenceOnly": true,
+  "borrowed": "2/19/2020",
+  "dueDate": "12/8/2019",
+  "price": "$38.75",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "9/26/2017",
+  "publicationDate": "9/7/2002",
+  "placedAt": {
+    "number": "00",
+    "locationIdentifier": "LIB-69"
+  },
+  "ISBN": "480711259-7",
+  "title": "Philadelphia Experiment, The",
+  "subject": "Adventure|Drama|Sci-Fi",
+  "publisher": "Bartholomeo Galey",
+  "language": "Czech",
+  "numberOfPages": "235",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "AD98 1281 9478 RLDI T0DE E8MQ",
+  "isReferenceOnly": true,
+  "borrowed": "7/13/2019",
+  "dueDate": "3/9/2020",
+  "price": "$42.81",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/10/2018",
+  "publicationDate": "8/11/2004",
+  "placedAt": {
+    "number": "38",
+    "locationIdentifier": "LIB-16"
+  },
+  "ISBN": "361570496-7",
+  "title": "Anna Karenina",
+  "subject": "Drama",
+  "publisher": "Horatius Trebilcock",
+  "language": "Aymara",
+  "numberOfPages": "542",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "IS41 4624 0168 4567 4241 4694 77",
+  "isReferenceOnly": true,
+  "borrowed": "4/3/2020",
+  "dueDate": "5/4/2019",
+  "price": "$73.69",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/25/2017",
+  "publicationDate": "2/3/2010",
+  "placedAt": {
+    "number": "80",
+    "locationIdentifier": "LIB-96"
+  },
+  "ISBN": "785497289-3",
+  "title": "Cat Run 2",
+  "subject": "Action",
+  "publisher": "Garvey Franchioni",
+  "language": "Dhivehi",
+  "numberOfPages": "380",
+  "authors": [
+    {
+      "name": "Mathilde Stanett",
+      "email": "mstanett0@behance.net",
+      "phone": "245-828-8482",
+      "address": {
+        "streetAddress": "3049 Fairview Plaza",
+        "city": "Pakemitan",
+        "zipCode": "53881",
+        "country": "Indonesia"
+      }
+    },
+    {
+      "name": "Wilone Lermouth",
+      "email": "wlermouth1@cafepress.com",
+      "phone": "168-592-1671",
+      "address": {
+        "streetAddress": "382 Claremont Pass",
+        "city": "Ropa",
+        "zipCode": "6",
+        "country": "Poland"
+      }
+    },
+    {
+      "name": "Reggy Testin",
+      "email": "rtestin2@trellian.com",
+      "phone": "185-833-1737",
+      "address": {
+        "streetAddress": "6344 Tennyson Parkway",
+        "city": "Dzagam",
+        "zipCode": "1072",
+        "country": "Azerbaijan"
+      }
+    }
+  ]
+}, {
+  "barcode": "AD93 6771 8694 WLLI VYF2 J50W",
+  "isReferenceOnly": true,
+  "borrowed": "7/12/2019",
+  "dueDate": "5/10/2019",
+  "price": "$17.07",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/16/2018",
+  "publicationDate": "9/6/2008",
+  "placedAt": {
+    "number": "26",
+    "locationIdentifier": "LIB-49"
+  },
+  "ISBN": "226136176-9",
+  "title": "Popatopolis",
+  "subject": "Documentary",
+  "publisher": "Klara Vasilmanov",
+  "language": "Croatian",
+  "numberOfPages": "632",
+  "authors": [
+    {
+      "name": "Glyn Sturridge",
+      "email": "gsturridge0@skype.com",
+      "phone": "104-723-5435",
+      "address": {
+        "streetAddress": "907 Schiller Place",
+        "city": "Ban Talat Bueng",
+        "zipCode": "8",
+        "country": "Thailand"
+      }
+    },
+    {
+      "name": "Frederique Sargint",
+      "email": "fsargint1@cpanel.net",
+      "phone": "397-119-0613",
+      "address": {
+        "streetAddress": "1445 Lindbergh Road",
+        "city": "Gabú",
+        "zipCode": "537",
+        "country": "Guinea-Bissau"
+      }
+    }
+  ]
+}, {
+  "barcode": "IE36 IKRK 9509 8767 9914 13",
+  "isReferenceOnly": true,
+  "borrowed": "9/20/2019",
+  "dueDate": "5/21/2019",
+  "price": "$2.53",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/2/2018",
+  "publicationDate": "6/4/2002",
+  "placedAt": {
+    "number": "79",
+    "locationIdentifier": "LIB-01"
+  },
+  "ISBN": "525472871-X",
+  "title": "Embrace of the Vampire",
+  "subject": "Horror|Thriller",
+  "publisher": "Ethelbert Heintze",
+  "language": "Thai",
+  "numberOfPages": "020",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "TN60 6102 7958 9334 4013 1435",
+  "isReferenceOnly": false,
+  "borrowed": "6/11/2019",
+  "dueDate": "5/6/2019",
+  "price": "$7.64",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/10/2017",
+  "publicationDate": "7/15/2003",
+  "placedAt": {
+    "number": "95",
+    "locationIdentifier": "LIB-07"
+  },
+  "ISBN": "533636377-4",
+  "title": "Don Is Dead, The",
+  "subject": "Action|Crime|Drama|Thriller",
+  "publisher": "Roseline O'Lennachain",
+  "language": "Assamese",
+  "numberOfPages": "140",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "IE10 BEXD 0496 0530 3400 89",
+  "isReferenceOnly": true,
+  "borrowed": "1/26/2020",
+  "dueDate": "3/31/2020",
+  "price": "$24.91",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/17/2017",
+  "publicationDate": "5/15/2005",
+  "placedAt": {
+    "number": "26",
+    "locationIdentifier": "LIB-99"
+  },
+  "ISBN": "801071912-9",
+  "title": "History of Hell (Rosas Höllenfahrt)",
+  "subject": "Documentary",
+  "publisher": "Tisha Skettles",
+  "language": "Papiamento",
+  "numberOfPages": "678",
+  "authors": [
+    {
+      "name": "L;urette Joynson",
+      "email": "ljoynson0@gizmodo.com",
+      "phone": "367-630-9909",
+      "address": {
+        "streetAddress": "3730 Hoard Avenue",
+        "city": "Nagqu",
+        "zipCode": "924",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "AE64 7133 9420 1799 5600 838",
+  "isReferenceOnly": true,
+  "borrowed": "4/9/2020",
+  "dueDate": "4/5/2020",
+  "price": "$13.74",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/30/2017",
+  "publicationDate": "9/7/2005",
+  "placedAt": {
+    "number": "99",
+    "locationIdentifier": "LIB-62"
+  },
+  "ISBN": "092262608-1",
+  "title": "Dirty Shame, A",
+  "subject": "Comedy",
+  "publisher": "Linnea Cammacke",
+  "language": "Afrikaans",
+  "numberOfPages": "330",
+  "authors": [
+    {
+      "name": "Bunni Tilberry",
+      "email": "btilberry0@mapquest.com",
+      "phone": "833-283-6409",
+      "address": {
+        "streetAddress": "0808 Bluejay Circle",
+        "city": "Luba",
+        "zipCode": "10223",
+        "country": "Equatorial Guinea"
+      }
+    }
+  ]
+}, {
+  "barcode": "KW24 PAKZ P1ZI NSRJ OEU7 JZD8 XSFH 35",
+  "isReferenceOnly": false,
+  "borrowed": "1/2/2020",
+  "dueDate": "4/29/2020",
+  "price": "$54.17",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/3/2017",
+  "publicationDate": "4/12/2001",
+  "placedAt": {
+    "number": "88",
+    "locationIdentifier": "LIB-03"
+  },
+  "ISBN": "783069374-9",
+  "title": "Heathcliff: The Movie",
+  "subject": "Animation|Comedy",
+  "publisher": "Marline Hast",
+  "language": "Chinese",
+  "numberOfPages": "633",
+  "authors": [
+    {
+      "name": "Jenn Brosel",
+      "email": "jbrosel0@soundcloud.com",
+      "phone": "971-349-0668",
+      "address": {
+        "streetAddress": "4 Ramsey Plaza",
+        "city": "Lameira",
+        "zipCode": "57206",
+        "country": "Portugal"
+      }
+    },
+    {
+      "name": "Porty Gutherson",
+      "email": "pgutherson1@state.gov",
+      "phone": "124-903-3011",
+      "address": {
+        "streetAddress": "9299 Morrow Plaza",
+        "city": "Bălţi",
+        "zipCode": "6",
+        "country": "Moldova"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR57 7774 0054 82CJ QJLM 5FBY Z06",
+  "isReferenceOnly": true,
+  "borrowed": "4/1/2020",
+  "dueDate": "5/17/2019",
+  "price": "$30.53",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/29/2017",
+  "publicationDate": "7/10/2001",
+  "placedAt": {
+    "number": "84",
+    "locationIdentifier": "LIB-03"
+  },
+  "ISBN": "959851883-3",
+  "title": "Tin Men",
+  "subject": "Comedy|Drama",
+  "publisher": "Inigo Howels",
+  "language": "Quechua",
+  "numberOfPages": "454",
+  "authors": [
+    {
+      "name": "Robbert Ibarra",
+      "email": "ribarra0@biglobe.ne.jp",
+      "phone": "999-700-6360",
+      "address": {
+        "streetAddress": "6 Spenser Drive",
+        "city": "Zaña",
+        "zipCode": "274",
+        "country": "Peru"
+      }
+    }
+  ]
+}, {
+  "barcode": "AT13 9612 9105 7088 8778",
+  "isReferenceOnly": true,
+  "borrowed": "5/28/2019",
+  "dueDate": "4/26/2019",
+  "price": "$94.26",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/8/2017",
+  "publicationDate": "8/22/2009",
+  "placedAt": {
+    "number": "02",
+    "locationIdentifier": "LIB-85"
+  },
+  "ISBN": "581086365-5",
+  "title": "Corsican File, The (L'enquête corse)",
+  "subject": "Action|Comedy|Crime",
+  "publisher": "Cindi Orwin",
+  "language": "Catalan",
+  "numberOfPages": "937",
+  "authors": [
+    {
+      "name": "Gisela Manoch",
+      "email": "gmanoch0@senate.gov",
+      "phone": "680-242-4358",
+      "address": {
+        "streetAddress": "959 Wayridge Center",
+        "city": "Palmas De Gran Canaria, Las",
+        "zipCode": "8",
+        "country": "Spain"
+      }
+    }
+  ]
+}, {
+  "barcode": "LT73 5346 1477 1478 9142",
+  "isReferenceOnly": true,
+  "borrowed": "4/20/2019",
+  "dueDate": "4/12/2020",
+  "price": "$34.10",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/13/2018",
+  "publicationDate": "5/17/2007",
+  "placedAt": {
+    "number": "09",
+    "locationIdentifier": "LIB-06"
+  },
+  "ISBN": "983289909-5",
+  "title": "Diamond Dogs",
+  "subject": "Action|Adventure",
+  "publisher": "Eldin Moretto",
+  "language": "Icelandic",
+  "numberOfPages": "675",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "SK15 9152 1783 5410 1071 4142",
+  "isReferenceOnly": false,
+  "borrowed": "1/15/2020",
+  "dueDate": "10/7/2019",
+  "price": "$21.11",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "9/24/2017",
+  "publicationDate": "12/7/2000",
+  "placedAt": {
+    "number": "04",
+    "locationIdentifier": "LIB-57"
+  },
+  "ISBN": "913968945-X",
+  "title": "Charlie Chan in Egypt",
+  "subject": "Mystery",
+  "publisher": "Tammara Currom",
+  "language": "Chinese",
+  "numberOfPages": "205",
+  "authors": [
+    {
+      "name": "Ebony Turnock",
+      "email": "eturnock0@github.io",
+      "phone": "456-906-6242",
+      "address": {
+        "streetAddress": "34 Warner Pass",
+        "city": "Ulan Us",
+        "zipCode": "9",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR46 9796 0229 0314 LM1O JLRR D60",
+  "isReferenceOnly": false,
+  "borrowed": "9/18/2019",
+  "dueDate": "8/7/2019",
+  "price": "$77.24",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "12/27/2017",
+  "publicationDate": "5/20/2007",
+  "placedAt": {
+    "number": "89",
+    "locationIdentifier": "LIB-14"
+  },
+  "ISBN": "723452849-0",
+  "title": "Hiroshima ",
+  "subject": "Documentary",
+  "publisher": "Harlan Rowsell",
+  "language": "Kannada",
+  "numberOfPages": "838",
+  "authors": [
+    {
+      "name": "Tod Whetland",
+      "email": "twhetland0@ifeng.com",
+      "phone": "629-629-0474",
+      "address": {
+        "streetAddress": "67238 Loftsgordon Alley",
+        "city": "Paine",
+        "zipCode": "8",
+        "country": "Chile"
+      }
+    },
+    {
+      "name": "Erin Fer",
+      "email": "efer1@cnbc.com",
+      "phone": "616-675-9260",
+      "address": {
+        "streetAddress": "13 Memorial Parkway",
+        "city": "Sergelen",
+        "zipCode": "819",
+        "country": "Mongolia"
+      }
+    },
+    {
+      "name": "Osbert Dulake",
+      "email": "odulake2@4shared.com",
+      "phone": "708-793-2652",
+      "address": {
+        "streetAddress": "95 Cherokee Park",
+        "city": "Xylókastro",
+        "zipCode": "89",
+        "country": "Greece"
+      }
+    }
+  ]
+}, {
+  "barcode": "CY47 6763 3883 TMGQ TPI5 R4DS 95AO",
+  "isReferenceOnly": false,
+  "borrowed": "12/5/2019",
+  "dueDate": "6/30/2019",
+  "price": "$79.52",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/17/2017",
+  "publicationDate": "12/11/2001",
+  "placedAt": {
+    "number": "74",
+    "locationIdentifier": "LIB-91"
+  },
+  "ISBN": "919948235-5",
+  "title": "Some Body",
+  "subject": "Drama",
+  "publisher": "Leland Joyner",
+  "language": "Swati",
+  "numberOfPages": "813",
+  "authors": [
+    {
+      "name": "Lucita Somerville",
+      "email": "lsomerville0@nytimes.com",
+      "phone": "784-486-4004",
+      "address": {
+        "streetAddress": "595 New Castle Trail",
+        "city": "Wenfu",
+        "zipCode": "96474",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Chrystal Boord",
+      "email": "cboord1@washingtonpost.com",
+      "phone": "956-941-5231",
+      "address": {
+        "streetAddress": "1964 Portage Road",
+        "city": "Petrovo-Dal’neye",
+        "zipCode": "9",
+        "country": "Russia"
+      }
+    },
+    {
+      "name": "Nancie Kluge",
+      "email": "nkluge2@wsj.com",
+      "phone": "900-461-3209",
+      "address": {
+        "streetAddress": "0580 Prairieview Place",
+        "city": "Otrokovice",
+        "zipCode": "932",
+        "country": "Czech Republic"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR55 9617 9689 24EO MEV3 GFSY X26",
+  "isReferenceOnly": false,
+  "borrowed": "7/24/2019",
+  "dueDate": "8/4/2019",
+  "price": "$61.27",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/2/2017",
+  "publicationDate": "8/21/2009",
+  "placedAt": {
+    "number": "92",
+    "locationIdentifier": "LIB-07"
+  },
+  "ISBN": "403440337-3",
+  "title": "The Grump",
+  "subject": "Comedy",
+  "publisher": "Saloma Gellion",
+  "language": "Kazakh",
+  "numberOfPages": "936",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "HU26 1431 6696 9071 2596 4083 3008",
+  "isReferenceOnly": true,
+  "borrowed": "4/14/2019",
+  "dueDate": "3/27/2020",
+  "price": "$9.95",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/25/2017",
+  "publicationDate": "4/28/2003",
+  "placedAt": {
+    "number": "83",
+    "locationIdentifier": "LIB-22"
+  },
+  "ISBN": "818353367-1",
+  "title": "Out California Way",
+  "subject": "Western",
+  "publisher": "Augustina Trimnell",
+  "language": "Bengali",
+  "numberOfPages": "630",
+  "authors": [
+    {
+      "name": "Bevin Million",
+      "email": "bmillion0@ezinearticles.com",
+      "phone": "831-753-3198",
+      "address": {
+        "streetAddress": "88 Erie Plaza",
+        "city": "Peteranec",
+        "zipCode": "1",
+        "country": "Croatia"
+      }
+    }
+  ]
+}, {
+  "barcode": "IS33 8743 0702 1825 0539 6418 47",
+  "isReferenceOnly": true,
+  "borrowed": "11/13/2019",
+  "dueDate": "4/28/2020",
+  "price": "$85.87",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/30/2017",
+  "publicationDate": "10/21/2008",
+  "placedAt": {
+    "number": "38",
+    "locationIdentifier": "LIB-43"
+  },
+  "ISBN": "773267807-9",
+  "title": "Stardust",
+  "subject": "Adventure|Comedy|Fantasy|Romance",
+  "publisher": "Aron Clemenceau",
+  "language": "Dhivehi",
+  "numberOfPages": "966",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "SE33 5184 1705 5626 8839 3690",
+  "isReferenceOnly": false,
+  "borrowed": "2/6/2020",
+  "dueDate": "8/19/2019",
+  "price": "$16.97",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/17/2017",
+  "publicationDate": "10/5/2002",
+  "placedAt": {
+    "number": "58",
+    "locationIdentifier": "LIB-12"
+  },
+  "ISBN": "102450446-8",
+  "title": "Richard Pryor Live on the Sunset Strip",
+  "subject": "Comedy|Documentary",
+  "publisher": "Lucio Milbank",
+  "language": "Irish Gaelic",
+  "numberOfPages": "873",
+  "authors": [
+    {
+      "name": "Rem Treasure",
+      "email": "rtreasure0@google.fr",
+      "phone": "759-906-8710",
+      "address": {
+        "streetAddress": "622 Continental Crossing",
+        "city": "Gafsa",
+        "zipCode": "8426",
+        "country": "Tunisia"
+      }
+    }
+  ]
+}, {
+  "barcode": "CZ21 6392 7997 3714 1450 6021",
+  "isReferenceOnly": false,
+  "borrowed": "1/3/2020",
+  "dueDate": "5/3/2019",
+  "price": "$11.09",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "4/1/2017",
+  "publicationDate": "4/18/2005",
+  "placedAt": {
+    "number": "21",
+    "locationIdentifier": "LIB-33"
+  },
+  "ISBN": "979619538-0",
+  "title": "Summer in February",
+  "subject": "Drama|Romance",
+  "publisher": "Albie Dellar",
+  "language": "Swahili",
+  "numberOfPages": "297",
+  "authors": [
+    {
+      "name": "Catarina Hovington",
+      "email": "chovington0@alexa.com",
+      "phone": "915-630-7515",
+      "address": {
+        "streetAddress": "434 Gulseth Lane",
+        "city": "Agago",
+        "zipCode": "947",
+        "country": "Uganda"
+      }
+    }
+  ]
+}, {
+  "barcode": "GR45 9094 769Q 1HPN VXVZ VH93 XDP",
+  "isReferenceOnly": false,
+  "borrowed": "3/29/2020",
+  "dueDate": "3/19/2020",
+  "price": "$59.50",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/30/2017",
+  "publicationDate": "8/3/2005",
+  "placedAt": {
+    "number": "65",
+    "locationIdentifier": "LIB-84"
+  },
+  "ISBN": "738841521-1",
+  "title": "Lives of Others, The (Das leben der Anderen)",
+  "subject": "Drama|Romance|Thriller",
+  "publisher": "Itch Bonifacio",
+  "language": "Czech",
+  "numberOfPages": "835",
+  "authors": [
+    {
+      "name": "Heall Stote",
+      "email": "hstote0@smugmug.com",
+      "phone": "535-231-1482",
+      "address": {
+        "streetAddress": "17163 Ramsey Point",
+        "city": "Sheksna",
+        "zipCode": "31",
+        "country": "Russia"
+      }
+    }
+  ]
+}, {
+  "barcode": "NO23 8400 1271 156",
+  "isReferenceOnly": false,
+  "borrowed": "12/9/2019",
+  "dueDate": "12/17/2019",
+  "price": "$89.99",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/3/2017",
+  "publicationDate": "9/7/2007",
+  "placedAt": {
+    "number": "96",
+    "locationIdentifier": "LIB-51"
+  },
+  "ISBN": "894300129-0",
+  "title": "Under the Roofs of Paris (Sous les toits de Paris)",
+  "subject": "Comedy|Drama|Romance",
+  "publisher": "Vera Feldstein",
+  "language": "Māori",
+  "numberOfPages": "230",
+  "authors": [
+    {
+      "name": "Fairfax Ray",
+      "email": "fray0@pcworld.com",
+      "phone": "418-841-1735",
+      "address": {
+        "streetAddress": "5993 Colorado Circle",
+        "city": "Vladikavkaz",
+        "zipCode": "270",
+        "country": "Russia"
+      }
+    },
+    {
+      "name": "Remy Pardew",
+      "email": "rpardew1@sbwire.com",
+      "phone": "818-171-4110",
+      "address": {
+        "streetAddress": "8518 Canary Lane",
+        "city": "Jiangdianzi",
+        "zipCode": "21143",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Dominik Allflatt",
+      "email": "dallflatt2@google.it",
+      "phone": "827-923-1807",
+      "address": {
+        "streetAddress": "89707 Lerdahl Trail",
+        "city": "San Francisco",
+        "zipCode": "581",
+        "country": "Costa Rica"
+      }
+    }
+  ]
+}, {
+  "barcode": "SI39 4491 9014 8176 727",
+  "isReferenceOnly": true,
+  "borrowed": "12/7/2019",
+  "dueDate": "12/28/2019",
+  "price": "$23.09",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/22/2017",
+  "publicationDate": "4/14/2008",
+  "placedAt": {
+    "number": "71",
+    "locationIdentifier": "LIB-70"
+  },
+  "ISBN": "889606395-7",
+  "title": "Smell of Camphor, Fragrance of Jasmine (Booye kafoor, atre yas)",
+  "subject": "Drama",
+  "publisher": "Fletch Geertz",
+  "language": "Nepali",
+  "numberOfPages": "199",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "AZ26 NCWS XEB3 GIOM 3Q6C DMLK NTP8",
+  "isReferenceOnly": true,
+  "borrowed": "7/25/2019",
+  "dueDate": "6/22/2019",
+  "price": "$97.73",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "9/29/2017",
+  "publicationDate": "1/29/2010",
+  "placedAt": {
+    "number": "24",
+    "locationIdentifier": "LIB-88"
+  },
+  "ISBN": "225336659-5",
+  "title": "Raw Meat (Death Line)",
+  "subject": "Horror",
+  "publisher": "Bee Kubin",
+  "language": "Tajik",
+  "numberOfPages": "132",
+  "authors": [
+    {
+      "name": "Rebe Empson",
+      "email": "rempson0@amazon.de",
+      "phone": "607-182-1128",
+      "address": {
+        "streetAddress": "699 Haas Pass",
+        "city": "Privolzhsk",
+        "zipCode": "35325",
+        "country": "Russia"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR18 3031 4850 79LC QQRJ DGXK G70",
+  "isReferenceOnly": true,
+  "borrowed": "2/4/2020",
+  "dueDate": "12/19/2019",
+  "price": "$58.85",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/15/2017",
+  "publicationDate": "7/24/2007",
+  "placedAt": {
+    "number": "84",
+    "locationIdentifier": "LIB-69"
+  },
+  "ISBN": "531523152-6",
+  "title": "Blind Menace, The (Shiranui kengyô)",
+  "subject": "Crime|Drama",
+  "publisher": "Leontine Geekin",
+  "language": "Tetum",
+  "numberOfPages": "805",
+  "authors": [
+    {
+      "name": "Abbie Sargeaunt",
+      "email": "asargeaunt0@princeton.edu",
+      "phone": "298-319-7869",
+      "address": {
+        "streetAddress": "515 Hayes Way",
+        "city": "Xietang",
+        "zipCode": "659",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "MR07 4151 6686 0925 6533 7217 338",
+  "isReferenceOnly": false,
+  "borrowed": "3/20/2020",
+  "dueDate": "8/10/2019",
+  "price": "$5.70",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/6/2017",
+  "publicationDate": "11/25/2006",
+  "placedAt": {
+    "number": "77",
+    "locationIdentifier": "LIB-22"
+  },
+  "ISBN": "348961525-5",
+  "title": "Down to the Cellar (Do pivnice)",
+  "subject": "Adventure|Fantasy|Thriller",
+  "publisher": "Dido Stores",
+  "language": "New Zealand Sign Language",
+  "numberOfPages": "387",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "CY05 1553 4176 IRNW OKSJ X0ML TVFZ",
+  "isReferenceOnly": true,
+  "borrowed": "6/24/2019",
+  "dueDate": "4/4/2020",
+  "price": "$53.03",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/27/2018",
+  "publicationDate": "6/4/2008",
+  "placedAt": {
+    "number": "73",
+    "locationIdentifier": "LIB-05"
+  },
+  "ISBN": "041757144-5",
+  "title": "End of Watch",
+  "subject": "Crime|Drama|Thriller",
+  "publisher": "Lelah Shilston",
+  "language": "Czech",
+  "numberOfPages": "267",
+  "authors": [
+    {
+      "name": "Althea Pudan",
+      "email": "apudan0@google.de",
+      "phone": "509-443-7786",
+      "address": {
+        "streetAddress": "3 Mcbride Place",
+        "city": "Haolaishan",
+        "zipCode": "3",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Ilse Tofanini",
+      "email": "itofanini1@squidoo.com",
+      "phone": "354-882-4464",
+      "address": {
+        "streetAddress": "70 Loomis Drive",
+        "city": "Kafir Qala",
+        "zipCode": "33",
+        "country": "Afghanistan"
+      }
+    },
+    {
+      "name": "Isabelita Auton",
+      "email": "iauton2@abc.net.au",
+      "phone": "987-443-3291",
+      "address": {
+        "streetAddress": "87075 Pleasure Court",
+        "city": "Stockholm",
+        "zipCode": "90981",
+        "country": "Sweden"
+      }
+    }
+  ]
+}, {
+  "barcode": "CR06 9942 4637 9037 7695 9",
+  "isReferenceOnly": false,
+  "borrowed": "9/12/2019",
+  "dueDate": "2/21/2020",
+  "price": "$36.80",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/20/2018",
+  "publicationDate": "8/7/2001",
+  "placedAt": {
+    "number": "53",
+    "locationIdentifier": "LIB-12"
+  },
+  "ISBN": "004859109-2",
+  "title": "Landscape Suicide",
+  "subject": "Crime|Drama",
+  "publisher": "Winnie Baraclough",
+  "language": "Dzongkha",
+  "numberOfPages": "608",
+  "authors": [
+    {
+      "name": "Nicolette Rimour",
+      "email": "nrimour0@lycos.com",
+      "phone": "534-174-5532",
+      "address": {
+        "streetAddress": "426 Talisman Center",
+        "city": "Chamical",
+        "zipCode": "0634",
+        "country": "Argentina"
+      }
+    },
+    {
+      "name": "Olva Zanetto",
+      "email": "ozanetto1@biglobe.ne.jp",
+      "phone": "323-977-6856",
+      "address": {
+        "streetAddress": "67 Welch Street",
+        "city": "Miedzichowo",
+        "zipCode": "8410",
+        "country": "Poland"
+      }
+    },
+    {
+      "name": "Remus Alesi",
+      "email": "ralesi2@e-recht24.de",
+      "phone": "322-657-6142",
+      "address": {
+        "streetAddress": "1 Eggendart Circle",
+        "city": "Xindian",
+        "zipCode": "613",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "LU97 6994 ODIH JGGZ RZ47",
+  "isReferenceOnly": true,
+  "borrowed": "6/24/2019",
+  "dueDate": "9/23/2019",
+  "price": "$36.12",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "11/3/2017",
+  "publicationDate": "9/13/2000",
+  "placedAt": {
+    "number": "95",
+    "locationIdentifier": "LIB-69"
+  },
+  "ISBN": "548952184-8",
+  "title": "Bikes vs Cars",
+  "subject": "Documentary",
+  "publisher": "Fiorenze Monsey",
+  "language": "Maltese",
+  "numberOfPages": "040",
+  "authors": [
+    {
+      "name": "Cal Skeel",
+      "email": "cskeel0@vimeo.com",
+      "phone": "343-101-0508",
+      "address": {
+        "streetAddress": "450 Mesta Trail",
+        "city": "Darnah",
+        "zipCode": "61",
+        "country": "Libya"
+      }
+    },
+    {
+      "name": "Kenny Causnett",
+      "email": "kcausnett1@elpais.com",
+      "phone": "502-805-0003",
+      "address": {
+        "streetAddress": "40614 Shoshone Alley",
+        "city": "Kilimatinde",
+        "zipCode": "059",
+        "country": "Tanzania"
+      }
+    }
+  ]
+}, {
+  "barcode": "LB18 8035 Z9TO VGZG VVYI ZAGV DCGC",
+  "isReferenceOnly": false,
+  "borrowed": "5/5/2019",
+  "dueDate": "6/13/2019",
+  "price": "$45.34",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/20/2017",
+  "publicationDate": "4/14/2006",
+  "placedAt": {
+    "number": "63",
+    "locationIdentifier": "LIB-12"
+  },
+  "ISBN": "550248672-9",
+  "title": "Nymph",
+  "subject": "Fantasy|Horror",
+  "publisher": "Atlanta Purle",
+  "language": "Polish",
+  "numberOfPages": "215",
+  "authors": [
+    {
+      "name": "Eimile McFarlane",
+      "email": "emcfarlane0@behance.net",
+      "phone": "164-308-6993",
+      "address": {
+        "streetAddress": "86 Hayes Place",
+        "city": "Engenheiro Beltrão",
+        "zipCode": "61",
+        "country": "Brazil"
+      }
+    },
+    {
+      "name": "Wendall Callington",
+      "email": "wcallington1@uol.com.br",
+      "phone": "307-687-7549",
+      "address": {
+        "streetAddress": "36118 Gina Avenue",
+        "city": "Perosinho",
+        "zipCode": "0971",
+        "country": "Portugal"
+      }
+    },
+    {
+      "name": "Julienne Dyment",
+      "email": "jdyment2@jalbum.net",
+      "phone": "231-638-4748",
+      "address": {
+        "streetAddress": "3544 Logan Circle",
+        "city": "Wuhao",
+        "zipCode": "1",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "NL23 OXME 0664 5702 83",
+  "isReferenceOnly": false,
+  "borrowed": "4/13/2020",
+  "dueDate": "7/31/2019",
+  "price": "$31.92",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/17/2017",
+  "publicationDate": "11/27/2008",
+  "placedAt": {
+    "number": "71",
+    "locationIdentifier": "LIB-98"
+  },
+  "ISBN": "717904320-6",
+  "title": "Most Likely to Succeed",
+  "subject": "Documentary|Drama",
+  "publisher": "Geraldine Hambelton",
+  "language": "Swedish",
+  "numberOfPages": "278",
+  "authors": [
+    {
+      "name": "Jase Svanini",
+      "email": "jsvanini0@wiley.com",
+      "phone": "597-561-9549",
+      "address": {
+        "streetAddress": "35 Dixon Park",
+        "city": "Watubura",
+        "zipCode": "6796",
+        "country": "Indonesia"
+      }
+    }
+  ]
+}, {
+  "barcode": "MD58 RRJ0 IOXJ OWJP WFZD 2WZS",
+  "isReferenceOnly": false,
+  "borrowed": "12/1/2019",
+  "dueDate": "3/10/2020",
+  "price": "$22.98",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "2/4/2018",
+  "publicationDate": "6/15/2001",
+  "placedAt": {
+    "number": "14",
+    "locationIdentifier": "LIB-99"
+  },
+  "ISBN": "881787650-X",
+  "title": "Flandres (Flanders)",
+  "subject": "Action|Drama|War",
+  "publisher": "Clarette Dearle-Palser",
+  "language": "Afrikaans",
+  "numberOfPages": "557",
+  "authors": [
+    {
+      "name": "Reinold McLennan",
+      "email": "rmclennan0@economist.com",
+      "phone": "511-416-8039",
+      "address": {
+        "streetAddress": "6409 Derek Point",
+        "city": "Konibodom",
+        "zipCode": "5103",
+        "country": "Tajikistan"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR29 7409 4258 89DP QLDY HC3S K58",
+  "isReferenceOnly": false,
+  "borrowed": "6/12/2019",
+  "dueDate": "10/21/2019",
+  "price": "$99.79",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/29/2017",
+  "publicationDate": "2/2/2003",
+  "placedAt": {
+    "number": "06",
+    "locationIdentifier": "LIB-96"
+  },
+  "ISBN": "153731668-0",
+  "title": "Arrangement, The",
+  "subject": "Drama",
+  "publisher": "Michaela Di Francesco",
+  "language": "Portuguese",
+  "numberOfPages": "547",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "RS09 4352 7342 3260 6709 17",
+  "isReferenceOnly": false,
+  "borrowed": "10/20/2019",
+  "dueDate": "12/18/2019",
+  "price": "$25.50",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/30/2017",
+  "publicationDate": "7/11/2002",
+  "placedAt": {
+    "number": "70",
+    "locationIdentifier": "LIB-71"
+  },
+  "ISBN": "426297569-X",
+  "title": "Zulu Dawn",
+  "subject": "Action|Drama|Thriller|War",
+  "publisher": "Honey Gittoes",
+  "language": "Zulu",
+  "numberOfPages": "183",
+  "authors": [
+    {
+      "name": "Clarita Ingall",
+      "email": "cingall0@stumbleupon.com",
+      "phone": "937-363-5566",
+      "address": {
+        "streetAddress": "6 Hansons Court",
+        "city": "Dayton",
+        "zipCode": "811",
+        "country": "United States"
+      }
+    }
+  ]
+}, {
+  "barcode": "AD33 5276 3493 Q3KD 5XFM 2DKN",
+  "isReferenceOnly": false,
+  "borrowed": "1/14/2020",
+  "dueDate": "1/10/2020",
+  "price": "$6.31",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "10/30/2017",
+  "publicationDate": "7/29/2005",
+  "placedAt": {
+    "number": "42",
+    "locationIdentifier": "LIB-00"
+  },
+  "ISBN": "891274557-3",
+  "title": "Arnold",
+  "subject": "Comedy|Horror",
+  "publisher": "Randall Nail",
+  "language": "Georgian",
+  "numberOfPages": "866",
+  "authors": [
+    {
+      "name": "Uriel Standon",
+      "email": "ustandon0@tuttocitta.it",
+      "phone": "780-890-3580",
+      "address": {
+        "streetAddress": "1526 Gale Junction",
+        "city": "Poyang",
+        "zipCode": "66061",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "DO16 ROCQ 9792 4145 2776 1038 3345",
+  "isReferenceOnly": true,
+  "borrowed": "10/6/2019",
+  "dueDate": "8/31/2019",
+  "price": "$11.48",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "3/1/2017",
+  "publicationDate": "4/27/2005",
+  "placedAt": {
+    "number": "48",
+    "locationIdentifier": "LIB-80"
+  },
+  "ISBN": "415766902-9",
+  "title": "Reconstituirea (Reconstruction)",
+  "subject": "Comedy|Drama",
+  "publisher": "Mead Sweetsur",
+  "language": "Kazakh",
+  "numberOfPages": "529",
+  "authors": [
+    {
+      "name": "Patin Yonnie",
+      "email": "pyonnie0@wunderground.com",
+      "phone": "166-755-4759",
+      "address": {
+        "streetAddress": "313 Nancy Way",
+        "city": "Jequié",
+        "zipCode": "98",
+        "country": "Brazil"
+      }
+    },
+    {
+      "name": "Drud Scragg",
+      "email": "dscragg1@cam.ac.uk",
+      "phone": "981-751-8862",
+      "address": {
+        "streetAddress": "74 Kinsman Junction",
+        "city": "Guanaja",
+        "zipCode": "3354",
+        "country": "Honduras"
+      }
+    }
+  ]
+}, {
+  "barcode": "BG36 ZDTE 2751 64EE CUGJ ZI",
+  "isReferenceOnly": false,
+  "borrowed": "7/12/2019",
+  "dueDate": "9/27/2019",
+  "price": "$42.83",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "5/24/2017",
+  "publicationDate": "1/9/2008",
+  "placedAt": {
+    "number": "66",
+    "locationIdentifier": "LIB-05"
+  },
+  "ISBN": "288124898-5",
+  "title": "Beethoven's Big Break",
+  "subject": "Children|Comedy",
+  "publisher": "Cameron Berthomier",
+  "language": "French",
+  "numberOfPages": "015",
+  "authors": [
+    {
+      "name": "Cris Goodale",
+      "email": "cgoodale0@smh.com.au",
+      "phone": "569-707-1071",
+      "address": {
+        "streetAddress": "3545 Tennessee Drive",
+        "city": "Wutongkou",
+        "zipCode": "829",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Celestine Rospars",
+      "email": "crospars1@is.gd",
+      "phone": "674-223-7066",
+      "address": {
+        "streetAddress": "84 2nd Road",
+        "city": "Nantes",
+        "zipCode": "3923",
+        "country": "France"
+      }
+    }
+  ]
+}, {
+  "barcode": "FR72 0238 0915 85U8 YHFA PQMS M12",
+  "isReferenceOnly": false,
+  "borrowed": "12/28/2019",
+  "dueDate": "7/10/2019",
+  "price": "$86.09",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "6/4/2017",
+  "publicationDate": "5/28/2004",
+  "placedAt": {
+    "number": "40",
+    "locationIdentifier": "LIB-18"
+  },
+  "ISBN": "196326338-3",
+  "title": "TT3D: Closer to the Edge",
+  "subject": "Documentary",
+  "publisher": "Janice Cattemull",
+  "language": "Dzongkha",
+  "numberOfPages": "305",
+  "authors": [
+
+  ]
+}, {
+  "barcode": "IT15 G099 2749 0077 YLPV P47C WST",
+  "isReferenceOnly": false,
+  "borrowed": "8/10/2019",
+  "dueDate": "9/6/2019",
+  "price": "$84.34",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "8/15/2017",
+  "publicationDate": "3/23/2008",
+  "placedAt": {
+    "number": "15",
+    "locationIdentifier": "LIB-15"
+  },
+  "ISBN": "733376094-4",
+  "title": "Our Music (Notre musique)",
+  "subject": "Drama",
+  "publisher": "Vivianna Hayhurst",
+  "language": "Malayalam",
+  "numberOfPages": "381",
+  "authors": [
+    {
+      "name": "Shurlocke Adamson",
+      "email": "sadamson0@salon.com",
+      "phone": "450-456-2176",
+      "address": {
+        "streetAddress": "0042 Crescent Oaks Way",
+        "city": "Angochi",
+        "zipCode": "14",
+        "country": "Aruba"
+      }
+    },
+    {
+      "name": "Ophelia Kobel",
+      "email": "okobel1@theglobeandmail.com",
+      "phone": "396-527-0826",
+      "address": {
+        "streetAddress": "56 Westend Circle",
+        "city": "Kantyshevo",
+        "zipCode": "9726",
+        "country": "Russia"
+      }
+    },
+    {
+      "name": "Britney Mousby",
+      "email": "bmousby2@studiopress.com",
+      "phone": "416-733-5920",
+      "address": {
+        "streetAddress": "6 Steensland Terrace",
+        "city": "Chikeng",
+        "zipCode": "579",
+        "country": "China"
+      }
+    }
+  ]
+}, {
+  "barcode": "GI32 RGFG AFJU ECSY XYRP SKV",
+  "isReferenceOnly": true,
+  "borrowed": "5/18/2019",
+  "dueDate": "5/17/2019",
+  "price": "$22.49",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "7/23/2017",
+  "publicationDate": "2/2/2008",
+  "placedAt": {
+    "number": "89",
+    "locationIdentifier": "LIB-68"
+  },
+  "ISBN": "205927721-3",
+  "title": "Cougars, Inc.",
+  "subject": "Comedy|Drama",
+  "publisher": "Johnette Drife",
+  "language": "Portuguese",
+  "numberOfPages": "292",
+  "authors": [
+    {
+      "name": "Margalo Hanssmann",
+      "email": "mhanssmann0@skype.com",
+      "phone": "821-300-0958",
+      "address": {
+        "streetAddress": "2055 Atwood Way",
+        "city": "Ouricuri",
+        "zipCode": "95",
+        "country": "Brazil"
+      }
+    },
+    {
+      "name": "Mattie Wemm",
+      "email": "mwemm1@multiply.com",
+      "phone": "244-400-4445",
+      "address": {
+        "streetAddress": "61574 Lillian Street",
+        "city": "Głuchów",
+        "zipCode": "65",
+        "country": "Poland"
+      }
+    },
+    {
+      "name": "Thomasine Coleborn",
+      "email": "tcoleborn2@theatlantic.com",
+      "phone": "484-366-7271",
+      "address": {
+        "streetAddress": "95 Arapahoe Alley",
+        "city": "Gračanica",
+        "zipCode": "5",
+        "country": "Bosnia and Herzegovina"
+      }
+    }
+  ]
+}, {
+  "barcode": "LB86 1912 MPX4 PQLG I57T YFFE ML8J",
+  "isReferenceOnly": false,
+  "borrowed": "11/20/2019",
+  "dueDate": "2/13/2020",
+  "price": "$23.69",
+  "format": "HARDCOVER",
+  "status": "AVAILABLE",
+  "dateOfPurchase": "1/30/2018",
+  "publicationDate": "4/10/2003",
+  "placedAt": {
+    "number": "58",
+    "locationIdentifier": "LIB-64"
+  },
+  "ISBN": "229091035-X",
+  "title": "Gun Woman",
+  "subject": "Action|Thriller",
+  "publisher": "Blayne Duetsche",
+  "language": "Hindi",
+  "numberOfPages": "012",
+  "authors": [
+
+  ]
+}]
